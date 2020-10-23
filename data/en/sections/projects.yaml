@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Dashboards
+  filter: "dashboards"
+#- name: Academic
+#  filter: "academic"
+#- name: Hobby
+#  filter: "hobby"
+
+# your projects
+projects:
+- name: COVID-19 Updates
+  logo: images/projects/covid-icon.svg
+  role: Creator
+  timeline: "March 2020 - Present"
+  repo: https://github.com/rcberg/2019-ncov-tracking # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Multiple COVID-19 dashboards providing information on cases and hospitalizations for US counties, states, and the world. Scroll to the bottom of the repo. for links.
+  tags: ["dashboards"]
+
+- name: Wildfire and Air Quality
+  logo: images/projects/icon-wildfire.png
+  role: Creator
+  timeline: "Sept 2020 - Present"
+  url: https://raw.githack.com/rcberg/spatial/master/report/presentations/fire-map/interactive-fire-map-nightmode.html
+  #url: ""
+  summary: A fully-interactive map featuring US wildfire areas as well as Air Quality Index (AQI) readings from air quality sensors.
+  tags: ["dashboards"]
+
+- name: US Suicide trends
+  logo: images/projects/chart-icon.png
+  role: Creator
+  timeline:
+  url: https://raw.githack.com/rcberg/health-economics/main/reports/presentations/interactive_suicide_state_night.html
+  summary: Data on the US national suicide rate, with interactive features (map/graph) to explore detailed state-level suicide rates.
+  tags: ["dashboards"]

@@ -1,0 +1,19 @@
+# some information about you
+name: "R. Christopher Berg, M.S."
+nickname: "Chris"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi! I'm"
+image: "images/avatar.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "donbarno@gmail.com"
+
+# some summary about what you do
+summary:
+  - I am an economist
+  - I am interested in researching...
+  - ...health and healthcare;
+  - ...education;
+  - ...labor;
+  - ...inequality;
+  - ...and more!

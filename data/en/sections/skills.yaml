@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: R
+  icon: "images/skills/R.png"
+  summary: "Scripting; wrangling and cleaning multitudes of various data formats using R; conducting reproducible spatial, statistical, and advanced econometric analysis; building packages."
+  url: "https://www.r-project.org/"
+
+- name: Stata
+  icon: "images/skills/stata-logo-blue.svg"
+  summary: "Using Stata to import and manipulate relational databases, and conduct statistical and econometric analysis."
+  url: "https://www.stata.com/"
+
+- name: Data visualization
+  icon: "images/skills/ggplot-logo.png"
+  summary: "Using ggplot2 to produce high-quality data visualizations, and fully-interactive dashboards."
+
+- name: Git
+  icon: "images/skills/github-logo.png"
+  summary: "Experience hosting content and collaborating with peers, mostly through GitHub."
+  url: "https://github.com/"
+  
+- name: Cloud Computing
+  icon: "images/skills/cloud.png"
+  summary: "Experience working with Google Cloud Platform (GCP) virtual machines."
+
+- name: Microsoft Office suite
+  icon: "images/skills/ms-office.png"
+  summary: "Decades of experience producing high-quality presentations and reports, as well as accessible data programming using the Microsoft Office suite programs (Word, Excel, PowerPoint, Outlook, Access)."

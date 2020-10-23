@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Education
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: University of Oregon
+    location: Eugene, OR
+    overview: Completed advanced coursework in applied microeconomics, econometrics, and data science.
+  positions:
+  - designation: Master of Sciences, Economics
+    start: September 2018
+    end: March 2020
+
+- company:
+    name: University of Wisconsin-Milwaukee
+    location: Milwaukee, WI
+    overview:
+  positions:
+  - designation: Master of Arts, Economics
+    start: January 2017
+    end: May 2018
+    responsibilities: 
+    - Specialization in Labor economics
+    - Additional coursework completed at Justus Liebig Universitat, Gießen, Germany
+  - designation: Bachelor of Arts, Economics
+    start: September 2013
+    end: May 2017
+    responsibilities:
+    - One-year study abroad at Jönköping International Business School, Jönköping, Sweden
