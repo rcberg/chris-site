@@ -1,12 +1,12 @@
 ---
-title: "Test Post"
+title: "Quality of Life in American Commuting Zones, Ranked"
 date: '2020-12-03'
-hero: /images/briefs/roback_plot.png
-description: Testing a brief post
+hero: /images/briefs/snowfall_plot.png
+description: Study of quality of living values in US commuting zones
 menu:
   sidebar:
-    name: Testing
-    identifier: test
+    name: Briefs
+    identifier: amenities
     weight: 500
 math: true
 ---
