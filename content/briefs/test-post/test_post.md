@@ -1,6 +1,6 @@
 ---
 title: "Test Post"
-date: 2020-12-03
+date: '2020-12-03'
 hero: /images/posts/writing-posts/analytics.svg
 description: Testing a brief post
 menu:
@@ -47,3477 +47,440 @@ living, implying a worse quality of life.
 
 Quality of Living Rankings
 --------------------------
+|Rank|CZ Code|MSA Name in CZ|Score|Amenity value (fraction of income)|Amenity value ($ of avg. income)|
+|--- |--- |--- |--- |--- |--- |
+|1|34701|Honolulu, HI Metropolitan Statistical Area|0.68|0.18|23783.31|
+|2|1203|Asheville, NC Metropolitan Statistical Area|0.58|0.13|11514.95|
+|2|1203|Brevard, NC Micropolitan Statistical Area|0.58|0.13|11514.95|
+|3|38000|San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area|0.52|0.15|19610.05|
+|4|35901|Cedar City, UT Micropolitan Statistical Area|0.50|0.12|11418.35|
+|4|35901|St. George, UT Metropolitan Statistical Area|0.50|0.12|11418.35|
+|5|39203|Bend, OR Metropolitan Statistical Area|0.49|0.13|13761.47|
+|5|39203|Prineville, OR Micropolitan Statistical Area|0.49|0.13|13761.47|
+|6|34802|Espanola, NM Micropolitan Statistical Area|0.48|0.11|10982.03|
+|6|34802|Los Alamos, NM Micropolitan Statistical Area|0.48|0.11|10982.03|
+|6|34802|Santa Fe, NM Metropolitan Statistical Area|0.48|0.11|10982.03|
+|6|34802|Taos, NM Micropolitan Statistical Area|0.48|0.11|10982.03|
+|7|38200|San Luis Obispo-Paso Robles, CA Metropolitan Statistical Area|0.47|0.13|16206.73|
+|7|38200|Santa Barbara-Santa Maria-Goleta, CA Metropolitan Statistical Area|0.47|0.13|16206.73|
+|8|38300|Los Angeles-Long Beach-Glendale, CA Metropolitan Division|0.46|0.13|16182.97|
+|8|38300|Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area|0.46|0.13|16182.97|
+|8|38300|Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area|0.46|0.13|16182.97|
+|8|38300|Santa Ana-Anaheim-Irvine, CA Metropolitan Division|0.46|0.13|16182.97|
+|9|7000|Fort Lauderdale-Pompano Beach-Deerfield Beach, FL Metropolitan Division|0.40|0.11|11661.43|
+|9|7000|Key West-Marathon, FL Micropolitan Statistical Area|0.40|0.11|11661.43|
+|9|7000|Miami-Miami Beach-Kendall, FL Metropolitan Division|0.40|0.11|11661.43|
+|10|37700|Clearlake, CA Micropolitan Statistical Area|0.38|0.10|13625.91|
+|10|37700|Santa Rosa-Petaluma, CA Metropolitan Statistical Area|0.38|0.10|13625.91|
+|10|37700|Ukiah, CA Micropolitan Statistical Area|0.38|0.10|13625.91|
+|11|28800|Fort Collins-Loveland, CO Metropolitan Statistical Area|0.38|0.10|11000.02|
+|11|28800|Fort Morgan, CO Micropolitan Statistical Area|0.38|0.10|11000.02|
+|11|28800|Greeley, CO Metropolitan Statistical Area|0.38|0.10|11000.02|
+|12|9900|Tallahassee, FL Metropolitan Statistical Area|0.38|0.10|8904.20|
+|13|9301|Athens-Clarke County, GA Metropolitan Statistical Area|0.38|0.10|7762.20|
+|13|9301|Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area|0.38|0.10|7762.20|
+|14|16100|DuBois, PA Micropolitan Statistical Area|0.36|0.09|8517.78|
+|14|16100|Huntingdon, PA Micropolitan Statistical Area|0.36|0.09|8517.78|
+|14|16100|State College, PA Metropolitan Statistical Area|0.36|0.09|8517.78|
+|15|6900|Arcadia, FL Micropolitan Statistical Area|0.34|0.08|8241.76|
+|15|6900|Punta Gorda, FL Metropolitan Statistical Area|0.34|0.08|8241.76|
+|15|6900|Sarasota-Bradenton-Venice, FL Metropolitan Statistical Area|0.34|0.08|8241.76|
+|16|7400|Orlando, FL Metropolitan Statistical Area|0.33|0.09|8602.38|
+|16|7400|The Villages, FL Micropolitan Statistical Area|0.33|0.09|8602.38|
+|17|7200|Cape Coral-Fort Myers, FL Metropolitan Statistical Area|0.33|0.08|8359.34|
+|17|7200|Naples-Marco Island, FL Metropolitan Statistical Area|0.33|0.08|8359.34|
+|18|36700|Eureka-Arcata-Fortuna, CA Micropolitan Statistical Area|0.33|0.09|8079.33|
+|19|36800|Grants Pass, OR Micropolitan Statistical Area|0.32|0.07|6905.94|
+|19|36800|Medford, OR Metropolitan Statistical Area|0.32|0.07|6905.94|
+|20|7100|Clewiston, FL Micropolitan Statistical Area|0.32|0.08|9024.26|
+|20|7100|Okeechobee, FL Micropolitan Statistical Area|0.32|0.08|9024.26|
+|20|7100|Port St. Lucie-Fort Pierce, FL Metropolitan Statistical Area|0.32|0.08|9024.26|
+|20|7100|West Palm Beach-Boca Raton-Boynton Beach, FL Metropolitan Division|0.32|0.08|9024.26|
+|21|38901|Albany-Lebanon, OR Micropolitan Statistical Area|0.32|0.08|7145.79|
+|21|38901|Corvallis, OR Metropolitan Statistical Area|0.32|0.08|7145.79|
+|21|38901|Eugene-Springfield, OR Metropolitan Statistical Area|0.32|0.08|7145.79|
+|21|38901|Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area|0.32|0.08|7145.79|
+|21|38901|Salem, OR Metropolitan Statistical Area|0.32|0.08|7145.79|
+|22|7900|Gainesville, FL Metropolitan Statistical Area|0.30|0.08|6966.96|
+|23|35600|Hilo, HI Micropolitan Statistical Area|0.30|0.07|6989.58|
+|24|37500|Salinas, CA Metropolitan Statistical Area|0.26|0.06|12933.97|
+|24|37500|San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area|0.26|0.06|12933.97|
+|24|37500|Santa Cruz-Watsonville, CA Metropolitan Statistical Area|0.26|0.06|12933.97|
+|25|2000|Elizabeth City, NC Micropolitan Statistical Area|0.25|0.06|6758.59|
+|25|2000|Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area|0.25|0.06|6758.59|
+|26|7300|Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area|0.24|0.05|4963.41|
+|26|7300|Vero Beach, FL Metropolitan Statistical Area|0.24|0.05|4963.41|
+|27|37800|Napa, CA Metropolitan Statistical Area|0.23|0.06|10491.94|
+|27|37800|Oakland-Fremont-Hayward, CA Metropolitan Division|0.23|0.06|10491.94|
+|27|37800|San Francisco-San Mateo-Redwood City, CA Metropolitan Division|0.23|0.06|10491.94|
+|27|37800|Vallejo-Fairfield, CA Metropolitan Statistical Area|0.23|0.06|10491.94|
+|28|20500|Barnstable Town, MA Metropolitan Statistical Area|0.23|0.06|8621.53|
+|28|20500|Boston-Quincy, MA Metropolitan Division|0.23|0.06|8621.53|
+|28|20500|Cambridge-Newton-Framingham, MA Metropolitan Division|0.23|0.06|8621.53|
+|28|20500|Essex County, MA Metropolitan Division|0.23|0.06|8621.53|
+|28|20500|Worcester, MA Metropolitan Statistical Area|0.23|0.06|8621.53|
+|29|1302|Dillon, SC Micropolitan Statistical Area|0.23|0.05|4330.00|
+|29|1302|Florence, SC Metropolitan Statistical Area|0.23|0.05|4330.00|
+|29|1302|Georgetown, SC Micropolitan Statistical Area|0.23|0.05|4330.00|
+|29|1302|Myrtle Beach-Conway-North Myrtle Beach, SC Metropolitan Statistical Area|0.23|0.05|4330.00|
+|30|37300|Chico, CA Metropolitan Statistical Area|0.22|0.05|5935.19|
+|30|37300|Yuba City-Marysville, CA Metropolitan Statistical Area|0.22|0.05|5935.19|
+|31|39302|Bellingham, WA Metropolitan Statistical Area|0.22|0.05|5219.61|
+|32|19400|New York-Wayne-White Plains, NY-NJ Metropolitan Division|0.21|0.06|7639.69|
+|32|19400|Suffolk County-Nassau County, NY Metropolitan Division|0.21|0.06|7639.69|
+|33|38801|Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area|0.20|0.05|5841.02|
+|34|6700|Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area|0.18|0.04|4104.93|
+|35|5401|Bowling Green, KY Metropolitan Statistical Area|0.17|0.03|2681.21|
+|36|37604|Carson City, NV Metropolitan Statistical Area|0.15|0.04|3908.24|
+|36|37604|Fallon, NV Micropolitan Statistical Area|0.15|0.04|3908.24|
+|36|37604|Reno-Sparks, NV Metropolitan Statistical Area|0.15|0.04|3908.24|
+|37|5600|Nashville-Davidson–Murfreesboro, TN Metropolitan Statistical Area|0.13|0.03|3210.37|
+|38|29204|Lawrence, KS Metropolitan Statistical Area|0.12|0.03|2546.72|
+|38|29204|Topeka, KS Metropolitan Statistical Area|0.12|0.03|2546.72|
+|39|12901|Frankfort, KY Micropolitan Statistical Area|0.12|0.03|2749.76|
+|39|12901|Lexington-Fayette, KY Metropolitan Statistical Area|0.12|0.03|2749.76|
+|40|35100|Nogales, AZ Micropolitan Statistical Area|0.12|0.03|2406.60|
+|40|35100|Sierra Vista-Douglas, AZ Micropolitan Statistical Area|0.12|0.03|2406.60|
+|40|35100|Tucson, AZ Metropolitan Statistical Area|0.12|0.03|2406.60|
+|41|10900|Fort Walton Beach-Crestview-Destin, FL Metropolitan Statistical Area|0.12|0.03|2574.27|
+|41|10900|Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area|0.12|0.03|2574.27|
+|42|35001|Payson, AZ Micropolitan Statistical Area|0.12|0.03|2841.48|
+|42|35001|Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area|0.12|0.03|2841.48|
+|43|37400|Gardnerville Ranchos, NV Micropolitan Statistical Area|0.12|0.03|3537.21|
+|43|37400|Sacramento–Arden-Arcade–Roseville, CA Metropolitan Statistical Area|0.12|0.03|3537.21|
+|43|37400|Stockton, CA Metropolitan Statistical Area|0.12|0.03|3537.21|
+|43|37400|Truckee-Grass Valley, CA Micropolitan Statistical Area|0.12|0.03|3537.21|
+|44|34901|Albuquerque, NM Metropolitan Statistical Area|0.12|0.02|2334.66|
+|44|34901|Grants, NM Micropolitan Statistical Area|0.12|0.02|2334.66|
+|45|38100|El Centro, CA Metropolitan Statistical Area|0.11|0.03|1849.33|
+|45|38100|Yuma, AZ Metropolitan Statistical Area|0.11|0.03|1849.33|
+|46|36100|Ogden-Clearfield, UT Metropolitan Statistical Area|0.10|0.02|2442.83|
+|46|36100|Salt Lake City, UT Metropolitan Statistical Area|0.10|0.02|2442.83|
+|47|36600|Red Bluff, CA Micropolitan Statistical Area|0.10|0.02|2338.40|
+|47|36600|Redding, CA Metropolitan Statistical Area|0.10|0.02|2338.40|
+|48|14600|Bedford, IN Micropolitan Statistical Area|0.10|0.02|2075.80|
+|48|14600|Bloomington, IN Metropolitan Statistical Area|0.10|0.02|2075.80|
+|48|14600|Washington, IN Micropolitan Statistical Area|0.10|0.02|2075.80|
+|49|34102|Anchorage, AK Metropolitan Statistical Area|0.09|0.02|2622.15|
+|50|1400|Fayetteville, NC Metropolitan Statistical Area|0.09|0.02|1697.22|
+|50|1400|Laurinburg, NC Micropolitan Statistical Area|0.09|0.02|1697.22|
+|50|1400|Lumberton, NC Micropolitan Statistical Area|0.09|0.02|1697.22|
+|50|1400|Rockingham, NC Micropolitan Statistical Area|0.09|0.02|1697.22|
+|50|1400|Southern Pines, NC Micropolitan Statistical Area|0.09|0.02|1697.22|
+|51|20401|Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area|0.09|0.02|2179.67|
+|52|31201|Austin-Round Rock, TX Metropolitan Statistical Area|0.09|0.02|2551.18|
+|53|9400|Cornelia, GA Micropolitan Statistical Area|0.09|0.02|2013.64|
+|53|9400|Gainesville, GA Metropolitan Statistical Area|0.09|0.02|2013.64|
+|54|39400|Bremerton-Silverdale, WA Metropolitan Statistical Area|0.08|0.02|2817.58|
+|54|39400|Centralia, WA Micropolitan Statistical Area|0.08|0.02|2817.58|
+|54|39400|Mount Vernon-Anacortes, WA Metropolitan Statistical Area|0.08|0.02|2817.58|
+|54|39400|Oak Harbor, WA Micropolitan Statistical Area|0.08|0.02|2817.58|
+|54|39400|Olympia, WA Metropolitan Statistical Area|0.08|0.02|2817.58|
+|54|39400|Seattle-Bellevue-Everett, WA Metropolitan Division|0.08|0.02|2817.58|
+|54|39400|Shelton, WA Micropolitan Statistical Area|0.08|0.02|2817.58|
+|54|39400|Tacoma, WA Metropolitan Division|0.08|0.02|2817.58|
+|55|6800|Lakeland-Winter Haven, FL Metropolitan Statistical Area|0.08|0.02|1571.89|
+|55|6800|Sebring, FL Micropolitan Statistical Area|0.08|0.02|1571.89|
+|55|6800|Wauchula, FL Micropolitan Statistical Area|0.08|0.02|1571.89|
+|56|23100|Baraboo, WI Micropolitan Statistical Area|0.08|0.02|2040.49|
+|56|23100|Madison, WI Metropolitan Statistical Area|0.08|0.02|2040.49|
+|57|22100|Iowa City, IA Metropolitan Statistical Area|0.08|0.02|2209.68|
+|57|22100|Muscatine, IA Micropolitan Statistical Area|0.08|0.02|2209.68|
+|58|30802|Levelland, TX Micropolitan Statistical Area|0.08|0.02|1529.46|
+|58|30802|Lubbock, TX Metropolitan Statistical Area|0.08|0.02|1529.46|
+|59|28101|Beatrice, NE Micropolitan Statistical Area|0.07|0.02|1386.91|
+|59|28101|Lincoln, NE Metropolitan Statistical Area|0.07|0.02|1386.91|
+|60|38601|Coeur d’Alene, ID Metropolitan Statistical Area|0.07|0.01|1422.24|
+|60|38601|Spokane, WA Metropolitan Statistical Area|0.07|0.01|1422.24|
+|61|19901|Dover, DE Metropolitan Statistical Area|0.06|0.01|1392.28|
+|61|19901|Ocean Pines, MD Micropolitan Statistical Area|0.06|0.01|1392.28|
+|61|19901|Salisbury, MD Metropolitan Statistical Area|0.06|0.01|1392.28|
+|61|19901|Seaford, DE Micropolitan Statistical Area|0.06|0.01|1392.28|
+|62|32900|Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area|0.06|0.02|1294.78|
+|63|30601|El Paso, TX Metropolitan Statistical Area|0.06|0.01|982.83|
+|63|30601|Las Cruces, NM Metropolitan Statistical Area|0.06|0.01|982.83|
+|64|20902|Bennington, VT Micropolitan Statistical Area|0.06|0.01|1281.95|
+|64|20902|Pittsfield, MA Metropolitan Statistical Area|0.06|0.01|1281.95|
+|65|6401|Chattanooga, TN-GA Metropolitan Statistical Area|0.05|0.01|1096.19|
+|66|20100|Augusta-Waterville, ME Micropolitan Statistical Area|0.05|0.01|1009.97|
+|66|20100|Lewiston-Auburn, ME Metropolitan Statistical Area|0.05|0.01|1009.97|
+|66|20100|Portland-South Portland, ME Metropolitan Statistical Area|0.05|0.01|1009.97|
+|67|36000|Provo-Orem, UT Metropolitan Statistical Area|0.05|0.01|1337.52|
+|68|31301|San Antonio, TX Metropolitan Statistical Area|0.05|0.01|1172.44|
+|69|302|Harriman, TN Micropolitan Statistical Area|0.05|0.01|867.41|
+|69|302|Knoxville, TN Metropolitan Statistical Area|0.05|0.01|867.41|
+|69|302|La Follette, TN Micropolitan Statistical Area|0.05|0.01|867.41|
+|70|7600|Jacksonville, FL Metropolitan Statistical Area|0.05|0.01|1088.41|
+|70|7600|St. Marys, GA Micropolitan Statistical Area|0.05|0.01|1088.41|
+|71|17400|Chambersburg, PA Micropolitan Statistical Area|0.05|0.01|1017.77|
+|71|17400|Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area|0.05|0.01|1017.77|
+|71|17400|Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division|0.05|0.01|1017.77|
+|72|19600|Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area|0.04|0.01|1605.35|
+|72|19600|Edison, NJ Metropolitan Division|0.04|0.01|1605.35|
+|72|19600|New York-Wayne-White Plains, NY-NJ Metropolitan Division|0.04|0.01|1605.35|
+|72|19600|Newark-Union, NJ-PA Metropolitan Division|0.04|0.01|1605.35|
+|72|19600|Trenton-Ewing, NJ Metropolitan Statistical Area|0.04|0.01|1605.35|
+|73|1100|Hickory-Morganton-Lenoir, NC Metropolitan Statistical Area|0.04|0.01|640.30|
+|73|1100|Statesville-Mooresville, NC Micropolitan Statistical Area|0.04|0.01|640.30|
+|74|36301|Blackfoot, ID Micropolitan Statistical Area|0.03|0.01|671.92|
+|74|36301|Idaho Falls, ID Metropolitan Statistical Area|0.03|0.01|671.92|
+|74|36301|Pocatello, ID Metropolitan Statistical Area|0.03|0.01|671.92|
+|74|36301|Rexburg, ID Micropolitan Statistical Area|0.03|0.01|671.92|
+|75|22900|La Crosse, WI-MN Metropolitan Statistical Area|0.03|0.01|634.64|
+|76|3300|Bogalusa, LA Micropolitan Statistical Area|0.02|0.00|472.80|
+|76|3300|New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area|0.02|0.00|472.80|
+|77|2700|Gulfport-Biloxi, MS Metropolitan Statistical Area|0.02|0.00|297.78|
+|77|2700|Pascagoula, MS Metropolitan Statistical Area|0.02|0.00|297.78|
+|77|2700|Picayune, MS Micropolitan Statistical Area|0.02|0.00|297.78|
+|78|31503|Laredo, TX Metropolitan Statistical Area|0.02|0.00|296.21|
+|79|37901|Lake Havasu City-Kingman, AZ Micropolitan Statistical Area|0.01|0.00|128.40|
+|79|37901|Las Vegas-Paradise, NV Metropolitan Statistical Area|0.01|0.00|128.40|
+|79|37901|Pahrump, NV Micropolitan Statistical Area|0.01|0.00|128.40|
+|80|2400|Richmond, VA Metropolitan Statistical Area|-0.01|0.00|-171.04|
+|81|1701|Dunn, NC Micropolitan Statistical Area|-0.01|0.00|-275.52|
+|81|1701|Durham, NC Metropolitan Statistical Area|-0.01|0.00|-275.52|
+|81|1701|Raleigh-Cary, NC Metropolitan Statistical Area|-0.01|0.00|-275.52|
+|81|1701|Sanford, NC Micropolitan Statistical Area|-0.01|0.00|-275.52|
+|82|500|Burlington, NC Metropolitan Statistical Area|-0.02|0.00|-291.50|
+|82|500|Danville, VA Metropolitan Statistical Area|-0.02|0.00|-291.50|
+|82|500|Greensboro-High Point, NC Metropolitan Statistical Area|-0.02|0.00|-291.50|
+|82|500|Lexington-Thomasville, NC Micropolitan Statistical Area|-0.02|0.00|-291.50|
+|83|11304|Bethesda-Frederick-Gaithersburg, MD Metropolitan Division|-0.02|0.00|-736.98|
+|83|11304|Lexington Park, MD Micropolitan Statistical Area|-0.02|0.00|-736.98|
+|83|11304|Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division|-0.02|0.00|-736.98|
+|84|37200|Fresno, CA Metropolitan Statistical Area|-0.02|-0.01|-485.69|
+|84|37200|Hanford-Corcoran, CA Metropolitan Statistical Area|-0.02|-0.01|-485.69|
+|84|37200|Madera, CA Metropolitan Statistical Area|-0.02|-0.01|-485.69|
+|84|37200|Visalia-Porterville, CA Metropolitan Statistical Area|-0.02|-0.01|-485.69|
+|85|100|Bristol, VA Metropolitan Statistical Area|-0.02|-0.01|-482.94|
+|85|100|Greeneville, TN Micropolitan Statistical Area|-0.02|-0.01|-482.94|
+|85|100|Johnson City, TN Metropolitan Statistical Area|-0.02|-0.01|-482.94|
+|85|100|Kingsport-Bristol, TN-VA Metropolitan Statistical Area|-0.02|-0.01|-482.94|
+|86|19500|Edison, NJ Metropolitan Division|-0.03|-0.01|-1073.50|
+|87|14500|Danville, IL Metropolitan Statistical Area|-0.03|-0.01|-579.43|
+|87|14500|Frankfort, IN Micropolitan Statistical Area|-0.03|-0.01|-579.43|
+|87|14500|Lafayette, IN Metropolitan Statistical Area|-0.03|-0.01|-579.43|
+|88|15000|Canton-Massillon, OH Metropolitan Statistical Area|-0.03|-0.01|-491.70|
+|88|15000|Coshocton, OH Micropolitan Statistical Area|-0.03|-0.01|-491.70|
+|88|15000|New Philadelphia-Dover, OH Micropolitan Statistical Area|-0.03|-0.01|-491.70|
+|88|15000|Wooster, OH Micropolitan Statistical Area|-0.03|-0.01|-491.70|
+|89|3400|Houma-Bayou Cane-Thibodaux, LA Metropolitan Statistical Area|-0.03|-0.01|-589.14|
+|89|3400|Morgan City, LA Micropolitan Statistical Area|-0.03|-0.01|-589.14|
+|89|3400|Pierre Part, LA Micropolitan Statistical Area|-0.03|-0.01|-589.14|
+|90|33100|Dallas-Plano-Irving, TX Metropolitan Division|-0.03|-0.01|-980.90|
+|90|33100|Gainesville, TX Micropolitan Statistical Area|-0.03|-0.01|-980.90|
+|91|33000|Fort Worth-Arlington, TX Metropolitan Division|-0.04|-0.01|-886.76|
+|91|33000|Granbury, TX Micropolitan Statistical Area|-0.04|-0.01|-886.76|
+|91|33000|Mineral Wells, TX Micropolitan Statistical Area|-0.04|-0.01|-886.76|
+|92|6100|Albertville, AL Micropolitan Statistical Area|-0.04|-0.01|-515.49|
+|92|6100|Gadsden, AL Metropolitan Statistical Area|-0.04|-0.01|-515.49|
+|92|6100|Scottsboro, AL Micropolitan Statistical Area|-0.04|-0.01|-515.49|
+|93|20001|Bangor, ME Metropolitan Statistical Area|-0.04|-0.01|-624.09|
+|93|20001|Rockland, ME Micropolitan Statistical Area|-0.04|-0.01|-624.09|
+|94|8300|Anderson, SC Metropolitan Statistical Area|-0.05|-0.01|-851.40|
+|94|8300|Greenville, SC Metropolitan Statistical Area|-0.05|-0.01|-851.40|
+|94|8300|Greenwood, SC Micropolitan Statistical Area|-0.05|-0.01|-851.40|
+|94|8300|Seneca, SC Micropolitan Statistical Area|-0.05|-0.01|-851.40|
+|95|401|Mount Airy, NC Micropolitan Statistical Area|-0.05|-0.01|-1096.26|
+|95|401|Winston-Salem, NC Metropolitan Statistical Area|-0.05|-0.01|-1096.26|
+|96|13101|Louisville, KY-IN Metropolitan Statistical Area|-0.06|-0.01|-1132.45|
+|97|900|Albemarle, NC Micropolitan Statistical Area|-0.06|-0.01|-1357.66|
+|97|900|Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area|-0.06|-0.01|-1357.66|
+|97|900|Chester, SC Micropolitan Statistical Area|-0.06|-0.01|-1357.66|
+|97|900|Lancaster, SC Micropolitan Statistical Area|-0.06|-0.01|-1357.66|
+|97|900|Salisbury, NC Micropolitan Statistical Area|-0.06|-0.01|-1357.66|
+|98|31700|Alice, TX Micropolitan Statistical Area|-0.06|-0.01|-1309.61|
+|98|31700|Corpus Christi, TX Metropolitan Statistical Area|-0.06|-0.01|-1309.61|
+|98|31700|Kingsville, TX Micropolitan Statistical Area|-0.06|-0.01|-1309.61|
+|99|1900|Greenville, NC Metropolitan Statistical Area|-0.08|-0.02|-1425.44|
+|99|1900|Jacksonville, NC Metropolitan Statistical Area|-0.08|-0.02|-1425.44|
+|99|1900|Kinston, NC Micropolitan Statistical Area|-0.08|-0.02|-1425.44|
+|99|1900|Morehead City, NC Micropolitan Statistical Area|-0.08|-0.02|-1425.44|
+|99|1900|New Bern, NC Micropolitan Statistical Area|-0.08|-0.02|-1425.44|
+|100|12200|Allegan, MI Micropolitan Statistical Area|-0.08|-0.02|-1529.58|
+|100|12200|Grand Rapids-Wyoming, MI Metropolitan Statistical Area|-0.08|-0.02|-1529.58|
+|100|12200|Holland-Grand Haven, MI Metropolitan Statistical Area|-0.08|-0.02|-1529.58|
+|100|12200|Muskegon-Norton Shores, MI Metropolitan Statistical Area|-0.08|-0.02|-1529.58|
+|101|2500|Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area|-0.08|-0.02|-1663.49|
+|102|24300|Chicago-Naperville-Joliet, IL Metropolitan Division|-0.08|-0.02|-2519.52|
+|102|24300|Lake County-Kenosha County, IL-WI Metropolitan Division|-0.08|-0.02|-2519.52|
+|103|8401|Augusta-Richmond County, GA-SC Metropolitan Statistical Area|-0.09|-0.02|-1876.20|
+|104|16500|Erie, PA Metropolitan Statistical Area|-0.09|-0.02|-1608.09|
+|104|16500|Jamestown-Dunkirk-Fredonia, NY Micropolitan Statistical Area|-0.09|-0.02|-1608.09|
+|104|16500|Meadville, PA Micropolitan Statistical Area|-0.09|-0.02|-1608.09|
+|104|16500|Oil City, PA Micropolitan Statistical Area|-0.09|-0.02|-1608.09|
+|104|16500|Warren, PA Micropolitan Statistical Area|-0.09|-0.02|-1608.09|
+|105|8900|Fort Valley, GA Micropolitan Statistical Area|-0.09|-0.02|-1810.54|
+|105|8900|Macon, GA Metropolitan Statistical Area|-0.09|-0.02|-1810.54|
+|105|8900|Warner Robins, GA Metropolitan Statistical Area|-0.09|-0.02|-1810.54|
+|106|37000|Merced, CA Metropolitan Statistical Area|-0.09|-0.02|-2246.95|
+|106|37000|Modesto, CA Metropolitan Statistical Area|-0.09|-0.02|-2246.95|
+|106|37000|Phoenix Lake-Cedar Ridge, CA Micropolitan Statistical Area|-0.09|-0.02|-2246.95|
+|107|9100|Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area|-0.09|-0.02|-2356.80|
+|108|23400|Bloomington-Normal, IL Metropolitan Statistical Area|-0.10|-0.02|-2045.48|
+|108|23400|Pontiac, IL Micropolitan Statistical Area|-0.10|-0.02|-2045.48|
+|109|8503|Moultrie, GA Micropolitan Statistical Area|-0.10|-0.02|-1700.92|
+|109|8503|Tifton, GA Micropolitan Statistical Area|-0.10|-0.02|-1700.92|
+|109|8503|Valdosta, GA Metropolitan Statistical Area|-0.10|-0.02|-1700.92|
+|110|11302|Baltimore-Towson, MD Metropolitan Statistical Area|-0.10|-0.02|-2870.19|
+|111|19700|Atlantic City, NJ Metropolitan Statistical Area|-0.10|-0.02|-2881.93|
+|111|19700|Camden, NJ Metropolitan Division|-0.10|-0.02|-2881.93|
+|111|19700|Ocean City, NJ Metropolitan Statistical Area|-0.10|-0.02|-2881.93|
+|111|19700|Philadelphia, PA Metropolitan Division|-0.10|-0.02|-2881.93|
+|111|19700|Vineland-Millville-Bridgeton, NJ Metropolitan Statistical Area|-0.10|-0.02|-2881.93|
+|111|19700|Wilmington, DE-MD-NJ Metropolitan Division|-0.10|-0.02|-2881.93|
+|112|11001|Daphne-Fairhope, AL Micropolitan Statistical Area|-0.10|-0.02|-1807.09|
+|112|11001|Mobile, AL Metropolitan Statistical Area|-0.10|-0.02|-1807.09|
+|113|30903|Amarillo, TX Metropolitan Statistical Area|-0.10|-0.02|-2088.52|
+|113|30903|Hereford, TX Micropolitan Statistical Area|-0.10|-0.02|-2088.52|
+|114|700|Gaffney, SC Micropolitan Statistical Area|-0.11|-0.02|-1718.17|
+|114|700|Spartanburg, SC Metropolitan Statistical Area|-0.11|-0.02|-1718.17|
+|114|700|Union, SC Micropolitan Statistical Area|-0.11|-0.02|-1718.17|
+|115|26801|Fargo, ND-MN Metropolitan Statistical Area|-0.11|-0.02|-2176.17|
+|115|26801|Wahpeton, ND-MN Micropolitan Statistical Area|-0.11|-0.02|-2176.17|
+|116|3800|Abbeville, LA Micropolitan Statistical Area|-0.11|-0.02|-2192.51|
+|116|3800|Crowley, LA Micropolitan Statistical Area|-0.11|-0.02|-2192.51|
+|116|3800|Lafayette, LA Metropolitan Statistical Area|-0.11|-0.02|-2192.51|
+|116|3800|New Iberia, LA Micropolitan Statistical Area|-0.11|-0.02|-2192.51|
+|116|3800|Opelousas-Eunice, LA Micropolitan Statistical Area|-0.11|-0.02|-2192.51|
+|117|15900|Columbus, OH Metropolitan Statistical Area|-0.11|-0.02|-2583.01|
+|117|15900|Mount Vernon, OH Micropolitan Statistical Area|-0.11|-0.02|-2583.01|
+|118|20901|Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area|-0.11|-0.03|-3740.66|
+|118|20901|Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area|-0.11|-0.03|-3740.66|
+|118|20901|New Haven-Milford, CT Metropolitan Statistical Area|-0.11|-0.03|-3740.66|
+|118|20901|Norwich-New London, CT Metropolitan Statistical Area|-0.11|-0.03|-3740.66|
+|118|20901|Torrington, CT Micropolitan Statistical Area|-0.11|-0.03|-3740.66|
+|118|20901|Willimantic, CT Micropolitan Statistical Area|-0.11|-0.03|-3740.66|
+|119|19800|Wilmington, DE-MD-NJ Metropolitan Division|-0.12|-0.02|-2884.66|
+|120|10700|Birmingham-Hoover, AL Metropolitan Statistical Area|-0.12|-0.03|-2546.74|
+|120|10700|Cullman, AL Micropolitan Statistical Area|-0.12|-0.03|-2546.74|
+|121|24100|Beaver Dam, WI Micropolitan Statistical Area|-0.12|-0.03|-2632.77|
+|121|24100|Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area|-0.12|-0.03|-2632.77|
+|121|24100|Watertown-Fort Atkinson, WI Micropolitan Statistical Area|-0.12|-0.03|-2632.77|
+|122|33803|Oklahoma City, OK Metropolitan Statistical Area|-0.12|-0.03|-2624.40|
+|122|33803|Shawnee, OK Micropolitan Statistical Area|-0.12|-0.03|-2624.40|
+|123|21501|Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area|-0.12|-0.03|-3261.15|
+|124|39000|Ellensburg, WA Micropolitan Statistical Area|-0.14|-0.03|-2548.77|
+|124|39000|Yakima, WA Metropolitan Statistical Area|-0.14|-0.03|-2548.77|
+|125|24000|Janesville, WI Metropolitan Statistical Area|-0.14|-0.03|-2982.16|
+|125|24000|Lake County-Kenosha County, IL-WI Metropolitan Division|-0.14|-0.03|-2982.16|
+|125|24000|Racine, WI Metropolitan Statistical Area|-0.14|-0.03|-2982.16|
+|125|24000|Whitewater, WI Micropolitan Statistical Area|-0.14|-0.03|-2982.16|
+|126|31600|Brownsville-Harlingen, TX Metropolitan Statistical Area|-0.15|-0.03|-2206.98|
+|126|31600|McAllen-Edinburg-Pharr, TX Metropolitan Statistical Area|-0.15|-0.03|-2206.98|
+|126|31600|Raymondville, TX Micropolitan Statistical Area|-0.15|-0.03|-2206.98|
+|126|31600|Rio Grande City, TX Micropolitan Statistical Area|-0.15|-0.03|-2206.98|
+|127|32000|Brenham, TX Micropolitan Statistical Area|-0.15|-0.03|-3916.44|
+|127|32000|Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area|-0.15|-0.03|-3916.44|
+|128|4200|Little Rock-North Little Rock, AR Metropolitan Statistical Area|-0.15|-0.03|-2899.20|
+|129|37100|Bakersfield, CA Metropolitan Statistical Area|-0.15|-0.04|-3353.90|
+|130|22601|Green Bay, WI Metropolitan Statistical Area|-0.15|-0.03|-2720.98|
+|131|18800|Bloomsburg-Berwick, PA Micropolitan Statistical Area|-0.15|-0.04|-3504.94|
+|131|18800|East Stroudsburg, PA Micropolitan Statistical Area|-0.15|-0.04|-3504.94|
+|131|18800|Newark-Union, NJ-PA Metropolitan Division|-0.15|-0.04|-3504.94|
+|131|18800|Scranton–Wilkes-Barre, PA Metropolitan Statistical Area|-0.15|-0.04|-3504.94|
+|132|19300|Kingston, NY Metropolitan Statistical Area|-0.16|-0.04|-5008.77|
+|132|19300|Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area|-0.16|-0.04|-5008.77|
+|133|28202|Fremont, NE Micropolitan Statistical Area|-0.16|-0.03|-3612.71|
+|133|28202|Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area|-0.16|-0.03|-3612.71|
+|134|18600|Albany-Schenectady-Troy, NY Metropolitan Statistical Area|-0.16|-0.03|-3765.57|
+|134|18600|Glens Falls, NY Metropolitan Statistical Area|-0.16|-0.03|-3765.57|
+|134|18600|Hudson, NY Micropolitan Statistical Area|-0.16|-0.03|-3765.57|
+|135|19100|Lancaster, PA Metropolitan Statistical Area|-0.16|-0.03|-3175.99|
+|135|19100|Lebanon, PA Metropolitan Statistical Area|-0.16|-0.03|-3175.99|
+|135|19100|Pottsville, PA Micropolitan Statistical Area|-0.16|-0.03|-3175.99|
+|135|19100|Reading, PA Metropolitan Statistical Area|-0.16|-0.03|-3175.99|
+|136|19200|Gettysburg, PA Micropolitan Statistical Area|-0.17|-0.04|-3563.49|
+|136|19200|Harrisburg-Carlisle, PA Metropolitan Statistical Area|-0.17|-0.04|-3563.49|
+|136|19200|Lewistown, PA Micropolitan Statistical Area|-0.17|-0.04|-3563.49|
+|136|19200|York-Hanover, PA Metropolitan Statistical Area|-0.17|-0.04|-3563.49|
+|137|24701|St. Louis, MO-IL Metropolitan Statistical Area|-0.17|-0.03|-3732.60|
+|138|13600|Michigan City-La Porte, IN Metropolitan Statistical Area|-0.17|-0.04|-3049.38|
+|138|13600|Niles-Benton Harbor, MI Metropolitan Statistical Area|-0.17|-0.04|-3049.38|
+|138|13600|Plymouth, IN Micropolitan Statistical Area|-0.17|-0.04|-3049.38|
+|138|13600|South Bend-Mishawaka, IN-MI Metropolitan Statistical Area|-0.17|-0.04|-3049.38|
+|139|22500|Appleton, WI Metropolitan Statistical Area|-0.18|-0.04|-3193.63|
+|139|22500|Fond du Lac, WI Metropolitan Statistical Area|-0.18|-0.04|-3193.63|
+|139|22500|Oshkosh-Neenah, WI Metropolitan Statistical Area|-0.18|-0.04|-3193.63|
+|140|31401|Andrews, TX Micropolitan Statistical Area|-0.18|-0.04|-5274.60|
+|140|31401|Midland, TX Metropolitan Statistical Area|-0.18|-0.04|-5274.60|
+|140|31401|Odessa, TX Metropolitan Statistical Area|-0.18|-0.04|-5274.60|
+|141|4002|Minden, LA Micropolitan Statistical Area|-0.18|-0.04|-3344.52|
+|141|4002|Natchitoches, LA Micropolitan Statistical Area|-0.18|-0.04|-3344.52|
+|141|4002|Shreveport-Bossier City, LA Metropolitan Statistical Area|-0.18|-0.04|-3344.52|
+|142|11600|Ann Arbor, MI Metropolitan Statistical Area|-0.18|-0.04|-4182.40|
+|142|11600|Detroit-Livonia-Dearborn, MI Metropolitan Division|-0.18|-0.04|-4182.40|
+|142|11600|Flint, MI Metropolitan Statistical Area|-0.18|-0.04|-4182.40|
+|142|11600|Owosso, MI Micropolitan Statistical Area|-0.18|-0.04|-4182.40|
+|142|11600|Warren-Farmington Hills-Troy, MI Metropolitan Division|-0.18|-0.04|-4182.40|
+|143|14700|Evansville, IN-KY Metropolitan Statistical Area|-0.19|-0.04|-3497.59|
+|143|14700|Jasper, IN Micropolitan Statistical Area|-0.19|-0.04|-3497.59|
+|144|14200|Indianapolis, IN Metropolitan Statistical Area|-0.19|-0.04|-3839.66|
+|145|29502|Kansas City, MO-KS Metropolitan Statistical Area|-0.19|-0.04|-4309.71|
+|145|29502|Warrensburg, MO Micropolitan Statistical Area|-0.19|-0.04|-4309.71|
+|146|30300|Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area|-0.21|-0.04|-4227.34|
+|147|22700|Merrill, WI Micropolitan Statistical Area|-0.21|-0.04|-3679.84|
+|147|22700|Stevens Point, WI Micropolitan Statistical Area|-0.21|-0.04|-3679.84|
+|147|22700|Wausau, WI Metropolitan Statistical Area|-0.21|-0.04|-3679.84|
+|147|22700|Wisconsin Rapids-Marshfield, WI Micropolitan Statistical Area|-0.21|-0.04|-3679.84|
+|148|14100|Angola, IN Micropolitan Statistical Area|-0.22|-0.04|-3789.17|
+|148|14100|Auburn, IN Micropolitan Statistical Area|-0.22|-0.04|-3789.17|
+|148|14100|Decatur, IN Micropolitan Statistical Area|-0.22|-0.04|-3789.17|
+|148|14100|Fort Wayne, IN Metropolitan Statistical Area|-0.22|-0.04|-3789.17|
+|148|14100|Huntington, IN Micropolitan Statistical Area|-0.22|-0.04|-3789.17|
+|149|5202|Memphis, TN-MS-AR Metropolitan Statistical Area|-0.23|-0.05|-5185.26|
+|150|3901|Bastrop, LA Micropolitan Statistical Area|-0.25|-0.06|-4656.62|
+|150|3901|Monroe, LA Metropolitan Statistical Area|-0.25|-0.06|-4656.62|
+|151|22001|Waterloo-Cedar Falls, IA Metropolitan Statistical Area|-0.25|-0.05|-5679.28|
+|152|24802|Lincoln, IL Micropolitan Statistical Area|-0.26|-0.05|-4855.41|
+|152|24802|Springfield, IL Metropolitan Statistical Area|-0.26|-0.05|-4855.41|
+|152|24802|Taylorville, IL Micropolitan Statistical Area|-0.26|-0.05|-4855.41|
+|153|16300|Indiana, PA Micropolitan Statistical Area|-0.26|-0.05|-5363.59|
+|153|16300|Pittsburgh, PA Metropolitan Statistical Area|-0.26|-0.05|-5363.59|
+|154|22200|Cedar Rapids, IA Metropolitan Statistical Area|-0.26|-0.06|-5269.67|
+|155|23500|Champaign-Urbana, IL Metropolitan Statistical Area|-0.28|-0.06|-5148.18|
+|155|23500|Decatur, IL Metropolitan Statistical Area|-0.28|-0.06|-5148.18|
+|156|15200|Akron, OH Metropolitan Statistical Area|-0.28|-0.06|-5736.08|
+|156|15200|Ashtabula, OH Micropolitan Statistical Area|-0.28|-0.06|-5736.08|
+|156|15200|Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area|-0.28|-0.06|-5736.08|
+|157|18000|Batavia, NY Micropolitan Statistical Area|-0.29|-0.06|-5944.74|
+|157|18000|Buffalo-Cheektowaga-Tonawanda, NY Metropolitan Statistical Area|-0.29|-0.06|-5944.74|
+|157|18000|Rochester, NY Metropolitan Statistical Area|-0.29|-0.06|-5944.74|
+|157|18000|Seneca Falls, NY Micropolitan Statistical Area|-0.29|-0.06|-5944.74|
+|158|11500|Adrian, MI Micropolitan Statistical Area|-0.29|-0.06|-4870.49|
+|158|11500|Jackson, MI Metropolitan Statistical Area|-0.29|-0.06|-4870.49|
+|159|14000|Anderson, IN Metropolitan Statistical Area|-0.29|-0.06|-4396.79|
+|159|14000|Marion, IN Micropolitan Statistical Area|-0.29|-0.06|-4396.79|
+|159|14000|Muncie, IN Metropolitan Statistical Area|-0.29|-0.06|-4396.79|
+|159|14000|New Castle, IN Micropolitan Statistical Area|-0.29|-0.06|-4396.79|
+|160|12701|Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area|-0.30|-0.06|-6640.49|
+|161|12501|Bellefontaine, OH Micropolitan Statistical Area|-0.30|-0.06|-5393.36|
+|161|12501|Dayton, OH Metropolitan Statistical Area|-0.30|-0.06|-5393.36|
+|161|12501|Greenville, OH Micropolitan Statistical Area|-0.30|-0.06|-5393.36|
+|161|12501|Sidney, OH Micropolitan Statistical Area|-0.30|-0.06|-5393.36|
+|161|12501|Springfield, OH Metropolitan Statistical Area|-0.30|-0.06|-5393.36|
+|161|12501|Urbana, OH Micropolitan Statistical Area|-0.30|-0.06|-5393.36|
+|162|3500|Baton Rouge, LA Metropolitan Statistical Area|-0.32|-0.07|-6945.30|
+|162|3500|Hammond, LA Micropolitan Statistical Area|-0.32|-0.07|-6945.30|
+|163|15100|Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area|-0.34|-0.07|-6548.46|
+|163|15100|Norwalk, OH Micropolitan Statistical Area|-0.34|-0.07|-6548.46|
+|163|15100|Sandusky, OH Metropolitan Statistical Area|-0.34|-0.07|-6548.46|
+|164|14900|Gary, IN Metropolitan Division|-0.35|-0.07|-6918.81|
+|165|23801|Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area|-0.38|-0.08|-7293.04|
+|165|23801|Peoria, IL Metropolitan Statistical Area|-0.38|-0.08|-7293.04|
+|166|13501|Monroe, MI Metropolitan Statistical Area|-0.40|-0.07|-7403.07|
+|166|13501|Toledo, OH Metropolitan Statistical Area|-0.40|-0.07|-7403.07|
+|167|23900|Ottawa-Streator, IL Micropolitan Statistical Area|-0.44|-0.09|-8246.60|
+|167|23900|Peoria, IL Metropolitan Statistical Area|-0.44|-0.09|-8246.60|
+|168|11900|Bay City, MI Metropolitan Statistical Area|-0.45|-0.08|-6969.44|
+|168|11900|Midland, MI Micropolitan Statistical Area|-0.45|-0.08|-6969.44|
+|168|11900|Saginaw-Saginaw Township North, MI Metropolitan Statistical Area|-0.45|-0.08|-6969.44|
+|169|24900|St. Louis, MO-IL Metropolitan Statistical Area|-0.46|-0.09|-9285.30|
+|170|16200|Altoona, PA Metropolitan Statistical Area|-0.58|-0.10|-8165.66|
+|170|16200|Johnstown, PA Metropolitan Statistical Area|-0.58|-0.10|-8165.66|
+|170|16200|Somerset, PA Micropolitan Statistical Area|-0.58|-0.10|-8165.66|
+|171|32100|Beaumont-Port Arthur, TX Metropolitan Statistical Area|-0.62|-0.13|-11784.40|
 
-<table>
-<colgroup>
-<col style="width: 3%" />
-<col style="width: 5%" />
-<col style="width: 44%" />
-<col style="width: 4%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Rank</th>
-<th style="text-align: center;">CZ Code</th>
-<th style="text-align: center;">MSA Name in CZ</th>
-<th style="text-align: center;">Score</th>
-<th style="text-align: center;">Amenity value (fraction of income)</th>
-<th style="text-align: center;">Amenity value ($ of avg. income)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">34701</td>
-<td style="text-align: center;">Honolulu, HI Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.68</td>
-<td style="text-align: center;">0.18</td>
-<td style="text-align: center;">23783.31</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">1203</td>
-<td style="text-align: center;">Asheville, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.58</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">11514.95</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">1203</td>
-<td style="text-align: center;">Brevard, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.58</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">11514.95</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">38000</td>
-<td style="text-align: center;">San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.52</td>
-<td style="text-align: center;">0.15</td>
-<td style="text-align: center;">19610.05</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">35901</td>
-<td style="text-align: center;">Cedar City, UT Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.50</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">11418.35</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">35901</td>
-<td style="text-align: center;">St. George, UT Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.50</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">11418.35</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">5</td>
-<td style="text-align: center;">39203</td>
-<td style="text-align: center;">Bend, OR Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.49</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">13761.47</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">5</td>
-<td style="text-align: center;">39203</td>
-<td style="text-align: center;">Prineville, OR Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.49</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">13761.47</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">6</td>
-<td style="text-align: center;">34802</td>
-<td style="text-align: center;">Espanola, NM Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.48</td>
-<td style="text-align: center;">0.11</td>
-<td style="text-align: center;">10982.03</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">6</td>
-<td style="text-align: center;">34802</td>
-<td style="text-align: center;">Los Alamos, NM Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.48</td>
-<td style="text-align: center;">0.11</td>
-<td style="text-align: center;">10982.03</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">6</td>
-<td style="text-align: center;">34802</td>
-<td style="text-align: center;">Santa Fe, NM Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.48</td>
-<td style="text-align: center;">0.11</td>
-<td style="text-align: center;">10982.03</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">6</td>
-<td style="text-align: center;">34802</td>
-<td style="text-align: center;">Taos, NM Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.48</td>
-<td style="text-align: center;">0.11</td>
-<td style="text-align: center;">10982.03</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">7</td>
-<td style="text-align: center;">38200</td>
-<td style="text-align: center;">San Luis Obispo-Paso Robles, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.47</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">16206.73</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">7</td>
-<td style="text-align: center;">38200</td>
-<td style="text-align: center;">Santa Barbara-Santa Maria-Goleta, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.47</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">16206.73</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">8</td>
-<td style="text-align: center;">38300</td>
-<td style="text-align: center;">Los Angeles-Long Beach-Glendale, CA Metropolitan Division</td>
-<td style="text-align: center;">0.46</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">16182.97</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">8</td>
-<td style="text-align: center;">38300</td>
-<td style="text-align: center;">Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.46</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">16182.97</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">8</td>
-<td style="text-align: center;">38300</td>
-<td style="text-align: center;">Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.46</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">16182.97</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">8</td>
-<td style="text-align: center;">38300</td>
-<td style="text-align: center;">Santa Ana-Anaheim-Irvine, CA Metropolitan Division</td>
-<td style="text-align: center;">0.46</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">16182.97</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">9</td>
-<td style="text-align: center;">7000</td>
-<td style="text-align: center;">Fort Lauderdale-Pompano Beach-Deerfield Beach, FL Metropolitan Division</td>
-<td style="text-align: center;">0.40</td>
-<td style="text-align: center;">0.11</td>
-<td style="text-align: center;">11661.43</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">9</td>
-<td style="text-align: center;">7000</td>
-<td style="text-align: center;">Key West-Marathon, FL Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.40</td>
-<td style="text-align: center;">0.11</td>
-<td style="text-align: center;">11661.43</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">9</td>
-<td style="text-align: center;">7000</td>
-<td style="text-align: center;">Miami-Miami Beach-Kendall, FL Metropolitan Division</td>
-<td style="text-align: center;">0.40</td>
-<td style="text-align: center;">0.11</td>
-<td style="text-align: center;">11661.43</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">10</td>
-<td style="text-align: center;">37700</td>
-<td style="text-align: center;">Clearlake, CA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.38</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">13625.91</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">10</td>
-<td style="text-align: center;">37700</td>
-<td style="text-align: center;">Santa Rosa-Petaluma, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.38</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">13625.91</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">10</td>
-<td style="text-align: center;">37700</td>
-<td style="text-align: center;">Ukiah, CA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.38</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">13625.91</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">11</td>
-<td style="text-align: center;">28800</td>
-<td style="text-align: center;">Fort Collins-Loveland, CO Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.38</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">11000.02</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">11</td>
-<td style="text-align: center;">28800</td>
-<td style="text-align: center;">Fort Morgan, CO Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.38</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">11000.02</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">11</td>
-<td style="text-align: center;">28800</td>
-<td style="text-align: center;">Greeley, CO Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.38</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">11000.02</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">12</td>
-<td style="text-align: center;">9900</td>
-<td style="text-align: center;">Tallahassee, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.38</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">8904.20</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">13</td>
-<td style="text-align: center;">9301</td>
-<td style="text-align: center;">Athens-Clarke County, GA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.38</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">7762.20</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">13</td>
-<td style="text-align: center;">9301</td>
-<td style="text-align: center;">Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.38</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">7762.20</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">14</td>
-<td style="text-align: center;">16100</td>
-<td style="text-align: center;">DuBois, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.36</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">8517.78</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">14</td>
-<td style="text-align: center;">16100</td>
-<td style="text-align: center;">Huntingdon, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.36</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">8517.78</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">14</td>
-<td style="text-align: center;">16100</td>
-<td style="text-align: center;">State College, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.36</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">8517.78</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">15</td>
-<td style="text-align: center;">6900</td>
-<td style="text-align: center;">Arcadia, FL Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.34</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">8241.76</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">15</td>
-<td style="text-align: center;">6900</td>
-<td style="text-align: center;">Punta Gorda, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.34</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">8241.76</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">15</td>
-<td style="text-align: center;">6900</td>
-<td style="text-align: center;">Sarasota-Bradenton-Venice, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.34</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">8241.76</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">16</td>
-<td style="text-align: center;">7400</td>
-<td style="text-align: center;">Orlando, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.33</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">8602.38</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">16</td>
-<td style="text-align: center;">7400</td>
-<td style="text-align: center;">The Villages, FL Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.33</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">8602.38</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">17</td>
-<td style="text-align: center;">7200</td>
-<td style="text-align: center;">Cape Coral-Fort Myers, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.33</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">8359.34</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">17</td>
-<td style="text-align: center;">7200</td>
-<td style="text-align: center;">Naples-Marco Island, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.33</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">8359.34</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">18</td>
-<td style="text-align: center;">36700</td>
-<td style="text-align: center;">Eureka-Arcata-Fortuna, CA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.33</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">8079.33</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">19</td>
-<td style="text-align: center;">36800</td>
-<td style="text-align: center;">Grants Pass, OR Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.07</td>
-<td style="text-align: center;">6905.94</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">19</td>
-<td style="text-align: center;">36800</td>
-<td style="text-align: center;">Medford, OR Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.07</td>
-<td style="text-align: center;">6905.94</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">20</td>
-<td style="text-align: center;">7100</td>
-<td style="text-align: center;">Clewiston, FL Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">9024.26</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">20</td>
-<td style="text-align: center;">7100</td>
-<td style="text-align: center;">Okeechobee, FL Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">9024.26</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">20</td>
-<td style="text-align: center;">7100</td>
-<td style="text-align: center;">Port St. Lucie-Fort Pierce, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">9024.26</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">20</td>
-<td style="text-align: center;">7100</td>
-<td style="text-align: center;">West Palm Beach-Boca Raton-Boynton Beach, FL Metropolitan Division</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">9024.26</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">21</td>
-<td style="text-align: center;">38901</td>
-<td style="text-align: center;">Albany-Lebanon, OR Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">7145.79</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">21</td>
-<td style="text-align: center;">38901</td>
-<td style="text-align: center;">Corvallis, OR Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">7145.79</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">21</td>
-<td style="text-align: center;">38901</td>
-<td style="text-align: center;">Eugene-Springfield, OR Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">7145.79</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">21</td>
-<td style="text-align: center;">38901</td>
-<td style="text-align: center;">Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">7145.79</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">21</td>
-<td style="text-align: center;">38901</td>
-<td style="text-align: center;">Salem, OR Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.32</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">7145.79</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">22</td>
-<td style="text-align: center;">7900</td>
-<td style="text-align: center;">Gainesville, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.30</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">6966.96</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">23</td>
-<td style="text-align: center;">35600</td>
-<td style="text-align: center;">Hilo, HI Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.30</td>
-<td style="text-align: center;">0.07</td>
-<td style="text-align: center;">6989.58</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">24</td>
-<td style="text-align: center;">37500</td>
-<td style="text-align: center;">Salinas, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.26</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">12933.97</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">24</td>
-<td style="text-align: center;">37500</td>
-<td style="text-align: center;">San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.26</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">12933.97</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">24</td>
-<td style="text-align: center;">37500</td>
-<td style="text-align: center;">Santa Cruz-Watsonville, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.26</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">12933.97</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">25</td>
-<td style="text-align: center;">2000</td>
-<td style="text-align: center;">Elizabeth City, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.25</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">6758.59</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">25</td>
-<td style="text-align: center;">2000</td>
-<td style="text-align: center;">Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.25</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">6758.59</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">26</td>
-<td style="text-align: center;">7300</td>
-<td style="text-align: center;">Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.24</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">4963.41</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">26</td>
-<td style="text-align: center;">7300</td>
-<td style="text-align: center;">Vero Beach, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.24</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">4963.41</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">27</td>
-<td style="text-align: center;">37800</td>
-<td style="text-align: center;">Napa, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">10491.94</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">27</td>
-<td style="text-align: center;">37800</td>
-<td style="text-align: center;">Oakland-Fremont-Hayward, CA Metropolitan Division</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">10491.94</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">27</td>
-<td style="text-align: center;">37800</td>
-<td style="text-align: center;">San Francisco-San Mateo-Redwood City, CA Metropolitan Division</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">10491.94</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">27</td>
-<td style="text-align: center;">37800</td>
-<td style="text-align: center;">Vallejo-Fairfield, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">10491.94</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">28</td>
-<td style="text-align: center;">20500</td>
-<td style="text-align: center;">Barnstable Town, MA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">8621.53</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">28</td>
-<td style="text-align: center;">20500</td>
-<td style="text-align: center;">Boston-Quincy, MA Metropolitan Division</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">8621.53</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">28</td>
-<td style="text-align: center;">20500</td>
-<td style="text-align: center;">Cambridge-Newton-Framingham, MA Metropolitan Division</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">8621.53</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">28</td>
-<td style="text-align: center;">20500</td>
-<td style="text-align: center;">Essex County, MA Metropolitan Division</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">8621.53</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">28</td>
-<td style="text-align: center;">20500</td>
-<td style="text-align: center;">Worcester, MA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">8621.53</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">29</td>
-<td style="text-align: center;">1302</td>
-<td style="text-align: center;">Dillon, SC Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">4330.00</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">29</td>
-<td style="text-align: center;">1302</td>
-<td style="text-align: center;">Florence, SC Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">4330.00</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">29</td>
-<td style="text-align: center;">1302</td>
-<td style="text-align: center;">Georgetown, SC Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">4330.00</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">29</td>
-<td style="text-align: center;">1302</td>
-<td style="text-align: center;">Myrtle Beach-Conway-North Myrtle Beach, SC Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.23</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">4330.00</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">30</td>
-<td style="text-align: center;">37300</td>
-<td style="text-align: center;">Chico, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.22</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">5935.19</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">30</td>
-<td style="text-align: center;">37300</td>
-<td style="text-align: center;">Yuba City-Marysville, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.22</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">5935.19</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">31</td>
-<td style="text-align: center;">39302</td>
-<td style="text-align: center;">Bellingham, WA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.22</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">5219.61</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">32</td>
-<td style="text-align: center;">19400</td>
-<td style="text-align: center;">New York-Wayne-White Plains, NY-NJ Metropolitan Division</td>
-<td style="text-align: center;">0.21</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">7639.69</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">32</td>
-<td style="text-align: center;">19400</td>
-<td style="text-align: center;">Suffolk County-Nassau County, NY Metropolitan Division</td>
-<td style="text-align: center;">0.21</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">7639.69</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">33</td>
-<td style="text-align: center;">38801</td>
-<td style="text-align: center;">Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.20</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">5841.02</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">34</td>
-<td style="text-align: center;">6700</td>
-<td style="text-align: center;">Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.18</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">4104.93</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">35</td>
-<td style="text-align: center;">5401</td>
-<td style="text-align: center;">Bowling Green, KY Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.17</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2681.21</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">36</td>
-<td style="text-align: center;">37604</td>
-<td style="text-align: center;">Carson City, NV Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.15</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">3908.24</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">36</td>
-<td style="text-align: center;">37604</td>
-<td style="text-align: center;">Fallon, NV Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.15</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">3908.24</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">36</td>
-<td style="text-align: center;">37604</td>
-<td style="text-align: center;">Reno-Sparks, NV Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.15</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">3908.24</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">37</td>
-<td style="text-align: center;">5600</td>
-<td style="text-align: center;">Nashville-Davidson–Murfreesboro, TN Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.13</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">3210.37</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">38</td>
-<td style="text-align: center;">29204</td>
-<td style="text-align: center;">Lawrence, KS Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2546.72</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">38</td>
-<td style="text-align: center;">29204</td>
-<td style="text-align: center;">Topeka, KS Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2546.72</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">39</td>
-<td style="text-align: center;">12901</td>
-<td style="text-align: center;">Frankfort, KY Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2749.76</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">39</td>
-<td style="text-align: center;">12901</td>
-<td style="text-align: center;">Lexington-Fayette, KY Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2749.76</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">40</td>
-<td style="text-align: center;">35100</td>
-<td style="text-align: center;">Nogales, AZ Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2406.60</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">40</td>
-<td style="text-align: center;">35100</td>
-<td style="text-align: center;">Sierra Vista-Douglas, AZ Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2406.60</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">40</td>
-<td style="text-align: center;">35100</td>
-<td style="text-align: center;">Tucson, AZ Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2406.60</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">41</td>
-<td style="text-align: center;">10900</td>
-<td style="text-align: center;">Fort Walton Beach-Crestview-Destin, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2574.27</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">41</td>
-<td style="text-align: center;">10900</td>
-<td style="text-align: center;">Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2574.27</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">42</td>
-<td style="text-align: center;">35001</td>
-<td style="text-align: center;">Payson, AZ Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2841.48</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">42</td>
-<td style="text-align: center;">35001</td>
-<td style="text-align: center;">Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">2841.48</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">43</td>
-<td style="text-align: center;">37400</td>
-<td style="text-align: center;">Gardnerville Ranchos, NV Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">3537.21</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">43</td>
-<td style="text-align: center;">37400</td>
-<td style="text-align: center;">Sacramento–Arden-Arcade–Roseville, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">3537.21</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">43</td>
-<td style="text-align: center;">37400</td>
-<td style="text-align: center;">Stockton, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">3537.21</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">43</td>
-<td style="text-align: center;">37400</td>
-<td style="text-align: center;">Truckee-Grass Valley, CA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">3537.21</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">44</td>
-<td style="text-align: center;">34901</td>
-<td style="text-align: center;">Albuquerque, NM Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2334.66</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">44</td>
-<td style="text-align: center;">34901</td>
-<td style="text-align: center;">Grants, NM Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.12</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2334.66</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">45</td>
-<td style="text-align: center;">38100</td>
-<td style="text-align: center;">El Centro, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.11</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">1849.33</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">45</td>
-<td style="text-align: center;">38100</td>
-<td style="text-align: center;">Yuma, AZ Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.11</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">1849.33</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">46</td>
-<td style="text-align: center;">36100</td>
-<td style="text-align: center;">Ogden-Clearfield, UT Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2442.83</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">46</td>
-<td style="text-align: center;">36100</td>
-<td style="text-align: center;">Salt Lake City, UT Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2442.83</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">47</td>
-<td style="text-align: center;">36600</td>
-<td style="text-align: center;">Red Bluff, CA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2338.40</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">47</td>
-<td style="text-align: center;">36600</td>
-<td style="text-align: center;">Redding, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2338.40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">48</td>
-<td style="text-align: center;">14600</td>
-<td style="text-align: center;">Bedford, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2075.80</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">48</td>
-<td style="text-align: center;">14600</td>
-<td style="text-align: center;">Bloomington, IN Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2075.80</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">48</td>
-<td style="text-align: center;">14600</td>
-<td style="text-align: center;">Washington, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.10</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2075.80</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">49</td>
-<td style="text-align: center;">34102</td>
-<td style="text-align: center;">Anchorage, AK Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2622.15</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">50</td>
-<td style="text-align: center;">1400</td>
-<td style="text-align: center;">Fayetteville, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1697.22</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">50</td>
-<td style="text-align: center;">1400</td>
-<td style="text-align: center;">Laurinburg, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1697.22</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">50</td>
-<td style="text-align: center;">1400</td>
-<td style="text-align: center;">Lumberton, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1697.22</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">50</td>
-<td style="text-align: center;">1400</td>
-<td style="text-align: center;">Rockingham, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1697.22</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">50</td>
-<td style="text-align: center;">1400</td>
-<td style="text-align: center;">Southern Pines, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1697.22</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">51</td>
-<td style="text-align: center;">20401</td>
-<td style="text-align: center;">Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2179.67</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">52</td>
-<td style="text-align: center;">31201</td>
-<td style="text-align: center;">Austin-Round Rock, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2551.18</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">53</td>
-<td style="text-align: center;">9400</td>
-<td style="text-align: center;">Cornelia, GA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2013.64</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">53</td>
-<td style="text-align: center;">9400</td>
-<td style="text-align: center;">Gainesville, GA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.09</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2013.64</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">54</td>
-<td style="text-align: center;">39400</td>
-<td style="text-align: center;">Bremerton-Silverdale, WA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2817.58</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">54</td>
-<td style="text-align: center;">39400</td>
-<td style="text-align: center;">Centralia, WA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2817.58</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">54</td>
-<td style="text-align: center;">39400</td>
-<td style="text-align: center;">Mount Vernon-Anacortes, WA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2817.58</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">54</td>
-<td style="text-align: center;">39400</td>
-<td style="text-align: center;">Oak Harbor, WA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2817.58</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">54</td>
-<td style="text-align: center;">39400</td>
-<td style="text-align: center;">Olympia, WA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2817.58</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">54</td>
-<td style="text-align: center;">39400</td>
-<td style="text-align: center;">Seattle-Bellevue-Everett, WA Metropolitan Division</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2817.58</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">54</td>
-<td style="text-align: center;">39400</td>
-<td style="text-align: center;">Shelton, WA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2817.58</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">54</td>
-<td style="text-align: center;">39400</td>
-<td style="text-align: center;">Tacoma, WA Metropolitan Division</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2817.58</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">55</td>
-<td style="text-align: center;">6800</td>
-<td style="text-align: center;">Lakeland-Winter Haven, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1571.89</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">55</td>
-<td style="text-align: center;">6800</td>
-<td style="text-align: center;">Sebring, FL Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1571.89</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">55</td>
-<td style="text-align: center;">6800</td>
-<td style="text-align: center;">Wauchula, FL Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1571.89</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">56</td>
-<td style="text-align: center;">23100</td>
-<td style="text-align: center;">Baraboo, WI Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2040.49</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">56</td>
-<td style="text-align: center;">23100</td>
-<td style="text-align: center;">Madison, WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2040.49</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">57</td>
-<td style="text-align: center;">22100</td>
-<td style="text-align: center;">Iowa City, IA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2209.68</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">57</td>
-<td style="text-align: center;">22100</td>
-<td style="text-align: center;">Muscatine, IA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">2209.68</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">58</td>
-<td style="text-align: center;">30802</td>
-<td style="text-align: center;">Levelland, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1529.46</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">58</td>
-<td style="text-align: center;">30802</td>
-<td style="text-align: center;">Lubbock, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.08</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1529.46</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">59</td>
-<td style="text-align: center;">28101</td>
-<td style="text-align: center;">Beatrice, NE Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.07</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1386.91</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">59</td>
-<td style="text-align: center;">28101</td>
-<td style="text-align: center;">Lincoln, NE Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.07</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1386.91</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">60</td>
-<td style="text-align: center;">38601</td>
-<td style="text-align: center;">Coeur d’Alene, ID Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.07</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1422.24</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">60</td>
-<td style="text-align: center;">38601</td>
-<td style="text-align: center;">Spokane, WA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.07</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1422.24</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">61</td>
-<td style="text-align: center;">19901</td>
-<td style="text-align: center;">Dover, DE Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1392.28</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">61</td>
-<td style="text-align: center;">19901</td>
-<td style="text-align: center;">Ocean Pines, MD Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1392.28</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">61</td>
-<td style="text-align: center;">19901</td>
-<td style="text-align: center;">Salisbury, MD Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1392.28</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">61</td>
-<td style="text-align: center;">19901</td>
-<td style="text-align: center;">Seaford, DE Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1392.28</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">62</td>
-<td style="text-align: center;">32900</td>
-<td style="text-align: center;">Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">1294.78</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">63</td>
-<td style="text-align: center;">30601</td>
-<td style="text-align: center;">El Paso, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">982.83</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">63</td>
-<td style="text-align: center;">30601</td>
-<td style="text-align: center;">Las Cruces, NM Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">982.83</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">64</td>
-<td style="text-align: center;">20902</td>
-<td style="text-align: center;">Bennington, VT Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1281.95</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">64</td>
-<td style="text-align: center;">20902</td>
-<td style="text-align: center;">Pittsfield, MA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.06</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1281.95</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">65</td>
-<td style="text-align: center;">6401</td>
-<td style="text-align: center;">Chattanooga, TN-GA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1096.19</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">66</td>
-<td style="text-align: center;">20100</td>
-<td style="text-align: center;">Augusta-Waterville, ME Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1009.97</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">66</td>
-<td style="text-align: center;">20100</td>
-<td style="text-align: center;">Lewiston-Auburn, ME Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1009.97</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">66</td>
-<td style="text-align: center;">20100</td>
-<td style="text-align: center;">Portland-South Portland, ME Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1009.97</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">67</td>
-<td style="text-align: center;">36000</td>
-<td style="text-align: center;">Provo-Orem, UT Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1337.52</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">68</td>
-<td style="text-align: center;">31301</td>
-<td style="text-align: center;">San Antonio, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1172.44</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">69</td>
-<td style="text-align: center;">302</td>
-<td style="text-align: center;">Harriman, TN Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">867.41</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">69</td>
-<td style="text-align: center;">302</td>
-<td style="text-align: center;">Knoxville, TN Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">867.41</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">69</td>
-<td style="text-align: center;">302</td>
-<td style="text-align: center;">La Follette, TN Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">867.41</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">70</td>
-<td style="text-align: center;">7600</td>
-<td style="text-align: center;">Jacksonville, FL Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1088.41</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">70</td>
-<td style="text-align: center;">7600</td>
-<td style="text-align: center;">St. Marys, GA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1088.41</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">71</td>
-<td style="text-align: center;">17400</td>
-<td style="text-align: center;">Chambersburg, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1017.77</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">71</td>
-<td style="text-align: center;">17400</td>
-<td style="text-align: center;">Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1017.77</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">71</td>
-<td style="text-align: center;">17400</td>
-<td style="text-align: center;">Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division</td>
-<td style="text-align: center;">0.05</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1017.77</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">72</td>
-<td style="text-align: center;">19600</td>
-<td style="text-align: center;">Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1605.35</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">72</td>
-<td style="text-align: center;">19600</td>
-<td style="text-align: center;">Edison, NJ Metropolitan Division</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1605.35</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">72</td>
-<td style="text-align: center;">19600</td>
-<td style="text-align: center;">New York-Wayne-White Plains, NY-NJ Metropolitan Division</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1605.35</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">72</td>
-<td style="text-align: center;">19600</td>
-<td style="text-align: center;">Newark-Union, NJ-PA Metropolitan Division</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1605.35</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">72</td>
-<td style="text-align: center;">19600</td>
-<td style="text-align: center;">Trenton-Ewing, NJ Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">1605.35</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">73</td>
-<td style="text-align: center;">1100</td>
-<td style="text-align: center;">Hickory-Morganton-Lenoir, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">640.30</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">73</td>
-<td style="text-align: center;">1100</td>
-<td style="text-align: center;">Statesville-Mooresville, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.04</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">640.30</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">74</td>
-<td style="text-align: center;">36301</td>
-<td style="text-align: center;">Blackfoot, ID Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">671.92</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">74</td>
-<td style="text-align: center;">36301</td>
-<td style="text-align: center;">Idaho Falls, ID Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">671.92</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">74</td>
-<td style="text-align: center;">36301</td>
-<td style="text-align: center;">Pocatello, ID Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">671.92</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">74</td>
-<td style="text-align: center;">36301</td>
-<td style="text-align: center;">Rexburg, ID Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">671.92</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">75</td>
-<td style="text-align: center;">22900</td>
-<td style="text-align: center;">La Crosse, WI-MN Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.03</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">634.64</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">76</td>
-<td style="text-align: center;">3300</td>
-<td style="text-align: center;">Bogalusa, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">472.80</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">76</td>
-<td style="text-align: center;">3300</td>
-<td style="text-align: center;">New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">472.80</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">77</td>
-<td style="text-align: center;">2700</td>
-<td style="text-align: center;">Gulfport-Biloxi, MS Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">297.78</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">77</td>
-<td style="text-align: center;">2700</td>
-<td style="text-align: center;">Pascagoula, MS Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">297.78</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">77</td>
-<td style="text-align: center;">2700</td>
-<td style="text-align: center;">Picayune, MS Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">297.78</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">78</td>
-<td style="text-align: center;">31503</td>
-<td style="text-align: center;">Laredo, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">296.21</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">79</td>
-<td style="text-align: center;">37901</td>
-<td style="text-align: center;">Lake Havasu City-Kingman, AZ Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">128.40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">79</td>
-<td style="text-align: center;">37901</td>
-<td style="text-align: center;">Las Vegas-Paradise, NV Metropolitan Statistical Area</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">128.40</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">79</td>
-<td style="text-align: center;">37901</td>
-<td style="text-align: center;">Pahrump, NV Micropolitan Statistical Area</td>
-<td style="text-align: center;">0.01</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">128.40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">80</td>
-<td style="text-align: center;">2400</td>
-<td style="text-align: center;">Richmond, VA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-171.04</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">81</td>
-<td style="text-align: center;">1701</td>
-<td style="text-align: center;">Dunn, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-275.52</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">81</td>
-<td style="text-align: center;">1701</td>
-<td style="text-align: center;">Durham, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-275.52</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">81</td>
-<td style="text-align: center;">1701</td>
-<td style="text-align: center;">Raleigh-Cary, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-275.52</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">81</td>
-<td style="text-align: center;">1701</td>
-<td style="text-align: center;">Sanford, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-275.52</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">82</td>
-<td style="text-align: center;">500</td>
-<td style="text-align: center;">Burlington, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-291.50</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">82</td>
-<td style="text-align: center;">500</td>
-<td style="text-align: center;">Danville, VA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-291.50</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">82</td>
-<td style="text-align: center;">500</td>
-<td style="text-align: center;">Greensboro-High Point, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-291.50</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">82</td>
-<td style="text-align: center;">500</td>
-<td style="text-align: center;">Lexington-Thomasville, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-291.50</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">83</td>
-<td style="text-align: center;">11304</td>
-<td style="text-align: center;">Bethesda-Frederick-Gaithersburg, MD Metropolitan Division</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-736.98</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">83</td>
-<td style="text-align: center;">11304</td>
-<td style="text-align: center;">Lexington Park, MD Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-736.98</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">83</td>
-<td style="text-align: center;">11304</td>
-<td style="text-align: center;">Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">0.00</td>
-<td style="text-align: center;">-736.98</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">84</td>
-<td style="text-align: center;">37200</td>
-<td style="text-align: center;">Fresno, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-485.69</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">84</td>
-<td style="text-align: center;">37200</td>
-<td style="text-align: center;">Hanford-Corcoran, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-485.69</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">84</td>
-<td style="text-align: center;">37200</td>
-<td style="text-align: center;">Madera, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-485.69</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">84</td>
-<td style="text-align: center;">37200</td>
-<td style="text-align: center;">Visalia-Porterville, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-485.69</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">85</td>
-<td style="text-align: center;">100</td>
-<td style="text-align: center;">Bristol, VA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-482.94</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">85</td>
-<td style="text-align: center;">100</td>
-<td style="text-align: center;">Greeneville, TN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-482.94</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">85</td>
-<td style="text-align: center;">100</td>
-<td style="text-align: center;">Johnson City, TN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-482.94</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">85</td>
-<td style="text-align: center;">100</td>
-<td style="text-align: center;">Kingsport-Bristol, TN-VA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-482.94</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">86</td>
-<td style="text-align: center;">19500</td>
-<td style="text-align: center;">Edison, NJ Metropolitan Division</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1073.50</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">87</td>
-<td style="text-align: center;">14500</td>
-<td style="text-align: center;">Danville, IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-579.43</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">87</td>
-<td style="text-align: center;">14500</td>
-<td style="text-align: center;">Frankfort, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-579.43</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">87</td>
-<td style="text-align: center;">14500</td>
-<td style="text-align: center;">Lafayette, IN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-579.43</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">88</td>
-<td style="text-align: center;">15000</td>
-<td style="text-align: center;">Canton-Massillon, OH Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-491.70</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">88</td>
-<td style="text-align: center;">15000</td>
-<td style="text-align: center;">Coshocton, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-491.70</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">88</td>
-<td style="text-align: center;">15000</td>
-<td style="text-align: center;">New Philadelphia-Dover, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-491.70</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">88</td>
-<td style="text-align: center;">15000</td>
-<td style="text-align: center;">Wooster, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-491.70</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">89</td>
-<td style="text-align: center;">3400</td>
-<td style="text-align: center;">Houma-Bayou Cane-Thibodaux, LA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-589.14</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">89</td>
-<td style="text-align: center;">3400</td>
-<td style="text-align: center;">Morgan City, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-589.14</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">89</td>
-<td style="text-align: center;">3400</td>
-<td style="text-align: center;">Pierre Part, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-589.14</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">90</td>
-<td style="text-align: center;">33100</td>
-<td style="text-align: center;">Dallas-Plano-Irving, TX Metropolitan Division</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-980.90</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">90</td>
-<td style="text-align: center;">33100</td>
-<td style="text-align: center;">Gainesville, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-980.90</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">91</td>
-<td style="text-align: center;">33000</td>
-<td style="text-align: center;">Fort Worth-Arlington, TX Metropolitan Division</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-886.76</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">91</td>
-<td style="text-align: center;">33000</td>
-<td style="text-align: center;">Granbury, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-886.76</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">91</td>
-<td style="text-align: center;">33000</td>
-<td style="text-align: center;">Mineral Wells, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-886.76</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">92</td>
-<td style="text-align: center;">6100</td>
-<td style="text-align: center;">Albertville, AL Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-515.49</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">92</td>
-<td style="text-align: center;">6100</td>
-<td style="text-align: center;">Gadsden, AL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-515.49</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">92</td>
-<td style="text-align: center;">6100</td>
-<td style="text-align: center;">Scottsboro, AL Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-515.49</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">93</td>
-<td style="text-align: center;">20001</td>
-<td style="text-align: center;">Bangor, ME Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-624.09</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">93</td>
-<td style="text-align: center;">20001</td>
-<td style="text-align: center;">Rockland, ME Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-624.09</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">94</td>
-<td style="text-align: center;">8300</td>
-<td style="text-align: center;">Anderson, SC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-851.40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">94</td>
-<td style="text-align: center;">8300</td>
-<td style="text-align: center;">Greenville, SC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-851.40</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">94</td>
-<td style="text-align: center;">8300</td>
-<td style="text-align: center;">Greenwood, SC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-851.40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">94</td>
-<td style="text-align: center;">8300</td>
-<td style="text-align: center;">Seneca, SC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-851.40</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">95</td>
-<td style="text-align: center;">401</td>
-<td style="text-align: center;">Mount Airy, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1096.26</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">95</td>
-<td style="text-align: center;">401</td>
-<td style="text-align: center;">Winston-Salem, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1096.26</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">96</td>
-<td style="text-align: center;">13101</td>
-<td style="text-align: center;">Louisville, KY-IN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1132.45</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">97</td>
-<td style="text-align: center;">900</td>
-<td style="text-align: center;">Albemarle, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1357.66</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">97</td>
-<td style="text-align: center;">900</td>
-<td style="text-align: center;">Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1357.66</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">97</td>
-<td style="text-align: center;">900</td>
-<td style="text-align: center;">Chester, SC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1357.66</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">97</td>
-<td style="text-align: center;">900</td>
-<td style="text-align: center;">Lancaster, SC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1357.66</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">97</td>
-<td style="text-align: center;">900</td>
-<td style="text-align: center;">Salisbury, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1357.66</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">98</td>
-<td style="text-align: center;">31700</td>
-<td style="text-align: center;">Alice, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1309.61</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">98</td>
-<td style="text-align: center;">31700</td>
-<td style="text-align: center;">Corpus Christi, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1309.61</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">98</td>
-<td style="text-align: center;">31700</td>
-<td style="text-align: center;">Kingsville, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-0.01</td>
-<td style="text-align: center;">-1309.61</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">99</td>
-<td style="text-align: center;">1900</td>
-<td style="text-align: center;">Greenville, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1425.44</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">99</td>
-<td style="text-align: center;">1900</td>
-<td style="text-align: center;">Jacksonville, NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1425.44</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">99</td>
-<td style="text-align: center;">1900</td>
-<td style="text-align: center;">Kinston, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1425.44</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">99</td>
-<td style="text-align: center;">1900</td>
-<td style="text-align: center;">Morehead City, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1425.44</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">99</td>
-<td style="text-align: center;">1900</td>
-<td style="text-align: center;">New Bern, NC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1425.44</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">100</td>
-<td style="text-align: center;">12200</td>
-<td style="text-align: center;">Allegan, MI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1529.58</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">100</td>
-<td style="text-align: center;">12200</td>
-<td style="text-align: center;">Grand Rapids-Wyoming, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1529.58</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">100</td>
-<td style="text-align: center;">12200</td>
-<td style="text-align: center;">Holland-Grand Haven, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1529.58</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">100</td>
-<td style="text-align: center;">12200</td>
-<td style="text-align: center;">Muskegon-Norton Shores, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1529.58</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">101</td>
-<td style="text-align: center;">2500</td>
-<td style="text-align: center;">Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1663.49</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">102</td>
-<td style="text-align: center;">24300</td>
-<td style="text-align: center;">Chicago-Naperville-Joliet, IL Metropolitan Division</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2519.52</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">102</td>
-<td style="text-align: center;">24300</td>
-<td style="text-align: center;">Lake County-Kenosha County, IL-WI Metropolitan Division</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2519.52</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">103</td>
-<td style="text-align: center;">8401</td>
-<td style="text-align: center;">Augusta-Richmond County, GA-SC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1876.20</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">104</td>
-<td style="text-align: center;">16500</td>
-<td style="text-align: center;">Erie, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1608.09</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">104</td>
-<td style="text-align: center;">16500</td>
-<td style="text-align: center;">Jamestown-Dunkirk-Fredonia, NY Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1608.09</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">104</td>
-<td style="text-align: center;">16500</td>
-<td style="text-align: center;">Meadville, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1608.09</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">104</td>
-<td style="text-align: center;">16500</td>
-<td style="text-align: center;">Oil City, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1608.09</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">104</td>
-<td style="text-align: center;">16500</td>
-<td style="text-align: center;">Warren, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1608.09</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">105</td>
-<td style="text-align: center;">8900</td>
-<td style="text-align: center;">Fort Valley, GA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1810.54</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">105</td>
-<td style="text-align: center;">8900</td>
-<td style="text-align: center;">Macon, GA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1810.54</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">105</td>
-<td style="text-align: center;">8900</td>
-<td style="text-align: center;">Warner Robins, GA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1810.54</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">106</td>
-<td style="text-align: center;">37000</td>
-<td style="text-align: center;">Merced, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2246.95</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">106</td>
-<td style="text-align: center;">37000</td>
-<td style="text-align: center;">Modesto, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2246.95</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">106</td>
-<td style="text-align: center;">37000</td>
-<td style="text-align: center;">Phoenix Lake-Cedar Ridge, CA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2246.95</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">107</td>
-<td style="text-align: center;">9100</td>
-<td style="text-align: center;">Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2356.80</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">108</td>
-<td style="text-align: center;">23400</td>
-<td style="text-align: center;">Bloomington-Normal, IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2045.48</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">108</td>
-<td style="text-align: center;">23400</td>
-<td style="text-align: center;">Pontiac, IL Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2045.48</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">109</td>
-<td style="text-align: center;">8503</td>
-<td style="text-align: center;">Moultrie, GA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1700.92</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">109</td>
-<td style="text-align: center;">8503</td>
-<td style="text-align: center;">Tifton, GA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1700.92</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">109</td>
-<td style="text-align: center;">8503</td>
-<td style="text-align: center;">Valdosta, GA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1700.92</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">110</td>
-<td style="text-align: center;">11302</td>
-<td style="text-align: center;">Baltimore-Towson, MD Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2870.19</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">111</td>
-<td style="text-align: center;">19700</td>
-<td style="text-align: center;">Atlantic City, NJ Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2881.93</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">111</td>
-<td style="text-align: center;">19700</td>
-<td style="text-align: center;">Camden, NJ Metropolitan Division</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2881.93</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">111</td>
-<td style="text-align: center;">19700</td>
-<td style="text-align: center;">Ocean City, NJ Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2881.93</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">111</td>
-<td style="text-align: center;">19700</td>
-<td style="text-align: center;">Philadelphia, PA Metropolitan Division</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2881.93</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">111</td>
-<td style="text-align: center;">19700</td>
-<td style="text-align: center;">Vineland-Millville-Bridgeton, NJ Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2881.93</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">111</td>
-<td style="text-align: center;">19700</td>
-<td style="text-align: center;">Wilmington, DE-MD-NJ Metropolitan Division</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2881.93</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">112</td>
-<td style="text-align: center;">11001</td>
-<td style="text-align: center;">Daphne-Fairhope, AL Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1807.09</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">112</td>
-<td style="text-align: center;">11001</td>
-<td style="text-align: center;">Mobile, AL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1807.09</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">113</td>
-<td style="text-align: center;">30903</td>
-<td style="text-align: center;">Amarillo, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2088.52</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">113</td>
-<td style="text-align: center;">30903</td>
-<td style="text-align: center;">Hereford, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2088.52</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">114</td>
-<td style="text-align: center;">700</td>
-<td style="text-align: center;">Gaffney, SC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1718.17</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">114</td>
-<td style="text-align: center;">700</td>
-<td style="text-align: center;">Spartanburg, SC Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1718.17</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">114</td>
-<td style="text-align: center;">700</td>
-<td style="text-align: center;">Union, SC Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-1718.17</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">115</td>
-<td style="text-align: center;">26801</td>
-<td style="text-align: center;">Fargo, ND-MN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2176.17</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">115</td>
-<td style="text-align: center;">26801</td>
-<td style="text-align: center;">Wahpeton, ND-MN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2176.17</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">116</td>
-<td style="text-align: center;">3800</td>
-<td style="text-align: center;">Abbeville, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2192.51</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">116</td>
-<td style="text-align: center;">3800</td>
-<td style="text-align: center;">Crowley, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2192.51</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">116</td>
-<td style="text-align: center;">3800</td>
-<td style="text-align: center;">Lafayette, LA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2192.51</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">116</td>
-<td style="text-align: center;">3800</td>
-<td style="text-align: center;">New Iberia, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2192.51</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">116</td>
-<td style="text-align: center;">3800</td>
-<td style="text-align: center;">Opelousas-Eunice, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2192.51</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">117</td>
-<td style="text-align: center;">15900</td>
-<td style="text-align: center;">Columbus, OH Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2583.01</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">117</td>
-<td style="text-align: center;">15900</td>
-<td style="text-align: center;">Mount Vernon, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2583.01</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">118</td>
-<td style="text-align: center;">20901</td>
-<td style="text-align: center;">Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3740.66</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">118</td>
-<td style="text-align: center;">20901</td>
-<td style="text-align: center;">Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3740.66</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">118</td>
-<td style="text-align: center;">20901</td>
-<td style="text-align: center;">New Haven-Milford, CT Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3740.66</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">118</td>
-<td style="text-align: center;">20901</td>
-<td style="text-align: center;">Norwich-New London, CT Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3740.66</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">118</td>
-<td style="text-align: center;">20901</td>
-<td style="text-align: center;">Torrington, CT Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3740.66</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">118</td>
-<td style="text-align: center;">20901</td>
-<td style="text-align: center;">Willimantic, CT Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.11</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3740.66</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">119</td>
-<td style="text-align: center;">19800</td>
-<td style="text-align: center;">Wilmington, DE-MD-NJ Metropolitan Division</td>
-<td style="text-align: center;">-0.12</td>
-<td style="text-align: center;">-0.02</td>
-<td style="text-align: center;">-2884.66</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">120</td>
-<td style="text-align: center;">10700</td>
-<td style="text-align: center;">Birmingham-Hoover, AL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.12</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2546.74</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">120</td>
-<td style="text-align: center;">10700</td>
-<td style="text-align: center;">Cullman, AL Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.12</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2546.74</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">121</td>
-<td style="text-align: center;">24100</td>
-<td style="text-align: center;">Beaver Dam, WI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.12</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2632.77</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">121</td>
-<td style="text-align: center;">24100</td>
-<td style="text-align: center;">Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.12</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2632.77</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">121</td>
-<td style="text-align: center;">24100</td>
-<td style="text-align: center;">Watertown-Fort Atkinson, WI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.12</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2632.77</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">122</td>
-<td style="text-align: center;">33803</td>
-<td style="text-align: center;">Oklahoma City, OK Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.12</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2624.40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">122</td>
-<td style="text-align: center;">33803</td>
-<td style="text-align: center;">Shawnee, OK Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.12</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2624.40</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">123</td>
-<td style="text-align: center;">21501</td>
-<td style="text-align: center;">Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.12</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3261.15</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">124</td>
-<td style="text-align: center;">39000</td>
-<td style="text-align: center;">Ellensburg, WA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.14</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2548.77</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">124</td>
-<td style="text-align: center;">39000</td>
-<td style="text-align: center;">Yakima, WA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.14</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2548.77</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">125</td>
-<td style="text-align: center;">24000</td>
-<td style="text-align: center;">Janesville, WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.14</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2982.16</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">125</td>
-<td style="text-align: center;">24000</td>
-<td style="text-align: center;">Lake County-Kenosha County, IL-WI Metropolitan Division</td>
-<td style="text-align: center;">-0.14</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2982.16</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">125</td>
-<td style="text-align: center;">24000</td>
-<td style="text-align: center;">Racine, WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.14</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2982.16</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">125</td>
-<td style="text-align: center;">24000</td>
-<td style="text-align: center;">Whitewater, WI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.14</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2982.16</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">126</td>
-<td style="text-align: center;">31600</td>
-<td style="text-align: center;">Brownsville-Harlingen, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2206.98</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">126</td>
-<td style="text-align: center;">31600</td>
-<td style="text-align: center;">McAllen-Edinburg-Pharr, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2206.98</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">126</td>
-<td style="text-align: center;">31600</td>
-<td style="text-align: center;">Raymondville, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2206.98</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">126</td>
-<td style="text-align: center;">31600</td>
-<td style="text-align: center;">Rio Grande City, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2206.98</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">127</td>
-<td style="text-align: center;">32000</td>
-<td style="text-align: center;">Brenham, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3916.44</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">127</td>
-<td style="text-align: center;">32000</td>
-<td style="text-align: center;">Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3916.44</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">128</td>
-<td style="text-align: center;">4200</td>
-<td style="text-align: center;">Little Rock-North Little Rock, AR Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2899.20</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">129</td>
-<td style="text-align: center;">37100</td>
-<td style="text-align: center;">Bakersfield, CA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3353.90</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">130</td>
-<td style="text-align: center;">22601</td>
-<td style="text-align: center;">Green Bay, WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-2720.98</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">131</td>
-<td style="text-align: center;">18800</td>
-<td style="text-align: center;">Bloomsburg-Berwick, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3504.94</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">131</td>
-<td style="text-align: center;">18800</td>
-<td style="text-align: center;">East Stroudsburg, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3504.94</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">131</td>
-<td style="text-align: center;">18800</td>
-<td style="text-align: center;">Newark-Union, NJ-PA Metropolitan Division</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3504.94</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">131</td>
-<td style="text-align: center;">18800</td>
-<td style="text-align: center;">Scranton–Wilkes-Barre, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.15</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3504.94</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">132</td>
-<td style="text-align: center;">19300</td>
-<td style="text-align: center;">Kingston, NY Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-5008.77</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">132</td>
-<td style="text-align: center;">19300</td>
-<td style="text-align: center;">Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-5008.77</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">133</td>
-<td style="text-align: center;">28202</td>
-<td style="text-align: center;">Fremont, NE Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3612.71</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">133</td>
-<td style="text-align: center;">28202</td>
-<td style="text-align: center;">Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3612.71</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">134</td>
-<td style="text-align: center;">18600</td>
-<td style="text-align: center;">Albany-Schenectady-Troy, NY Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3765.57</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">134</td>
-<td style="text-align: center;">18600</td>
-<td style="text-align: center;">Glens Falls, NY Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3765.57</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">134</td>
-<td style="text-align: center;">18600</td>
-<td style="text-align: center;">Hudson, NY Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3765.57</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">135</td>
-<td style="text-align: center;">19100</td>
-<td style="text-align: center;">Lancaster, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3175.99</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">135</td>
-<td style="text-align: center;">19100</td>
-<td style="text-align: center;">Lebanon, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3175.99</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">135</td>
-<td style="text-align: center;">19100</td>
-<td style="text-align: center;">Pottsville, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3175.99</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">135</td>
-<td style="text-align: center;">19100</td>
-<td style="text-align: center;">Reading, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.16</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3175.99</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">136</td>
-<td style="text-align: center;">19200</td>
-<td style="text-align: center;">Gettysburg, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.17</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3563.49</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">136</td>
-<td style="text-align: center;">19200</td>
-<td style="text-align: center;">Harrisburg-Carlisle, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.17</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3563.49</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">136</td>
-<td style="text-align: center;">19200</td>
-<td style="text-align: center;">Lewistown, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.17</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3563.49</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">136</td>
-<td style="text-align: center;">19200</td>
-<td style="text-align: center;">York-Hanover, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.17</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3563.49</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">137</td>
-<td style="text-align: center;">24701</td>
-<td style="text-align: center;">St. Louis, MO-IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.17</td>
-<td style="text-align: center;">-0.03</td>
-<td style="text-align: center;">-3732.60</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">138</td>
-<td style="text-align: center;">13600</td>
-<td style="text-align: center;">Michigan City-La Porte, IN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.17</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3049.38</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">138</td>
-<td style="text-align: center;">13600</td>
-<td style="text-align: center;">Niles-Benton Harbor, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.17</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3049.38</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">138</td>
-<td style="text-align: center;">13600</td>
-<td style="text-align: center;">Plymouth, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.17</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3049.38</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">138</td>
-<td style="text-align: center;">13600</td>
-<td style="text-align: center;">South Bend-Mishawaka, IN-MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.17</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3049.38</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">139</td>
-<td style="text-align: center;">22500</td>
-<td style="text-align: center;">Appleton, WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3193.63</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">139</td>
-<td style="text-align: center;">22500</td>
-<td style="text-align: center;">Fond du Lac, WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3193.63</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">139</td>
-<td style="text-align: center;">22500</td>
-<td style="text-align: center;">Oshkosh-Neenah, WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3193.63</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">140</td>
-<td style="text-align: center;">31401</td>
-<td style="text-align: center;">Andrews, TX Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-5274.60</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">140</td>
-<td style="text-align: center;">31401</td>
-<td style="text-align: center;">Midland, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-5274.60</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">140</td>
-<td style="text-align: center;">31401</td>
-<td style="text-align: center;">Odessa, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-5274.60</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">141</td>
-<td style="text-align: center;">4002</td>
-<td style="text-align: center;">Minden, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3344.52</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">141</td>
-<td style="text-align: center;">4002</td>
-<td style="text-align: center;">Natchitoches, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3344.52</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">141</td>
-<td style="text-align: center;">4002</td>
-<td style="text-align: center;">Shreveport-Bossier City, LA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3344.52</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">142</td>
-<td style="text-align: center;">11600</td>
-<td style="text-align: center;">Ann Arbor, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-4182.40</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">142</td>
-<td style="text-align: center;">11600</td>
-<td style="text-align: center;">Detroit-Livonia-Dearborn, MI Metropolitan Division</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-4182.40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">142</td>
-<td style="text-align: center;">11600</td>
-<td style="text-align: center;">Flint, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-4182.40</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">142</td>
-<td style="text-align: center;">11600</td>
-<td style="text-align: center;">Owosso, MI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-4182.40</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">142</td>
-<td style="text-align: center;">11600</td>
-<td style="text-align: center;">Warren-Farmington Hills-Troy, MI Metropolitan Division</td>
-<td style="text-align: center;">-0.18</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-4182.40</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">143</td>
-<td style="text-align: center;">14700</td>
-<td style="text-align: center;">Evansville, IN-KY Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.19</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3497.59</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">143</td>
-<td style="text-align: center;">14700</td>
-<td style="text-align: center;">Jasper, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.19</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3497.59</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">144</td>
-<td style="text-align: center;">14200</td>
-<td style="text-align: center;">Indianapolis, IN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.19</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3839.66</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">145</td>
-<td style="text-align: center;">29502</td>
-<td style="text-align: center;">Kansas City, MO-KS Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.19</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-4309.71</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">145</td>
-<td style="text-align: center;">29502</td>
-<td style="text-align: center;">Warrensburg, MO Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.19</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-4309.71</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">146</td>
-<td style="text-align: center;">30300</td>
-<td style="text-align: center;">Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.21</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-4227.34</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">147</td>
-<td style="text-align: center;">22700</td>
-<td style="text-align: center;">Merrill, WI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.21</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3679.84</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">147</td>
-<td style="text-align: center;">22700</td>
-<td style="text-align: center;">Stevens Point, WI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.21</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3679.84</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">147</td>
-<td style="text-align: center;">22700</td>
-<td style="text-align: center;">Wausau, WI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.21</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3679.84</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">147</td>
-<td style="text-align: center;">22700</td>
-<td style="text-align: center;">Wisconsin Rapids-Marshfield, WI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.21</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3679.84</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">148</td>
-<td style="text-align: center;">14100</td>
-<td style="text-align: center;">Angola, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.22</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3789.17</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">148</td>
-<td style="text-align: center;">14100</td>
-<td style="text-align: center;">Auburn, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.22</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3789.17</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">148</td>
-<td style="text-align: center;">14100</td>
-<td style="text-align: center;">Decatur, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.22</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3789.17</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">148</td>
-<td style="text-align: center;">14100</td>
-<td style="text-align: center;">Fort Wayne, IN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.22</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3789.17</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">148</td>
-<td style="text-align: center;">14100</td>
-<td style="text-align: center;">Huntington, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.22</td>
-<td style="text-align: center;">-0.04</td>
-<td style="text-align: center;">-3789.17</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">149</td>
-<td style="text-align: center;">5202</td>
-<td style="text-align: center;">Memphis, TN-MS-AR Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.23</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-5185.26</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">150</td>
-<td style="text-align: center;">3901</td>
-<td style="text-align: center;">Bastrop, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.25</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-4656.62</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">150</td>
-<td style="text-align: center;">3901</td>
-<td style="text-align: center;">Monroe, LA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.25</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-4656.62</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">151</td>
-<td style="text-align: center;">22001</td>
-<td style="text-align: center;">Waterloo-Cedar Falls, IA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.25</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-5679.28</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">152</td>
-<td style="text-align: center;">24802</td>
-<td style="text-align: center;">Lincoln, IL Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.26</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-4855.41</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">152</td>
-<td style="text-align: center;">24802</td>
-<td style="text-align: center;">Springfield, IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.26</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-4855.41</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">152</td>
-<td style="text-align: center;">24802</td>
-<td style="text-align: center;">Taylorville, IL Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.26</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-4855.41</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">153</td>
-<td style="text-align: center;">16300</td>
-<td style="text-align: center;">Indiana, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.26</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-5363.59</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">153</td>
-<td style="text-align: center;">16300</td>
-<td style="text-align: center;">Pittsburgh, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.26</td>
-<td style="text-align: center;">-0.05</td>
-<td style="text-align: center;">-5363.59</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">154</td>
-<td style="text-align: center;">22200</td>
-<td style="text-align: center;">Cedar Rapids, IA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.26</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5269.67</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">155</td>
-<td style="text-align: center;">23500</td>
-<td style="text-align: center;">Champaign-Urbana, IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.28</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5148.18</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">155</td>
-<td style="text-align: center;">23500</td>
-<td style="text-align: center;">Decatur, IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.28</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5148.18</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">156</td>
-<td style="text-align: center;">15200</td>
-<td style="text-align: center;">Akron, OH Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.28</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5736.08</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">156</td>
-<td style="text-align: center;">15200</td>
-<td style="text-align: center;">Ashtabula, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.28</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5736.08</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">156</td>
-<td style="text-align: center;">15200</td>
-<td style="text-align: center;">Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.28</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5736.08</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">157</td>
-<td style="text-align: center;">18000</td>
-<td style="text-align: center;">Batavia, NY Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5944.74</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">157</td>
-<td style="text-align: center;">18000</td>
-<td style="text-align: center;">Buffalo-Cheektowaga-Tonawanda, NY Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5944.74</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">157</td>
-<td style="text-align: center;">18000</td>
-<td style="text-align: center;">Rochester, NY Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5944.74</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">157</td>
-<td style="text-align: center;">18000</td>
-<td style="text-align: center;">Seneca Falls, NY Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5944.74</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">158</td>
-<td style="text-align: center;">11500</td>
-<td style="text-align: center;">Adrian, MI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-4870.49</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">158</td>
-<td style="text-align: center;">11500</td>
-<td style="text-align: center;">Jackson, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-4870.49</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">159</td>
-<td style="text-align: center;">14000</td>
-<td style="text-align: center;">Anderson, IN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-4396.79</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">159</td>
-<td style="text-align: center;">14000</td>
-<td style="text-align: center;">Marion, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-4396.79</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">159</td>
-<td style="text-align: center;">14000</td>
-<td style="text-align: center;">Muncie, IN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-4396.79</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">159</td>
-<td style="text-align: center;">14000</td>
-<td style="text-align: center;">New Castle, IN Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.29</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-4396.79</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">160</td>
-<td style="text-align: center;">12701</td>
-<td style="text-align: center;">Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.30</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-6640.49</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">161</td>
-<td style="text-align: center;">12501</td>
-<td style="text-align: center;">Bellefontaine, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.30</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5393.36</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">161</td>
-<td style="text-align: center;">12501</td>
-<td style="text-align: center;">Dayton, OH Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.30</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5393.36</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">161</td>
-<td style="text-align: center;">12501</td>
-<td style="text-align: center;">Greenville, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.30</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5393.36</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">161</td>
-<td style="text-align: center;">12501</td>
-<td style="text-align: center;">Sidney, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.30</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5393.36</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">161</td>
-<td style="text-align: center;">12501</td>
-<td style="text-align: center;">Springfield, OH Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.30</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5393.36</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">161</td>
-<td style="text-align: center;">12501</td>
-<td style="text-align: center;">Urbana, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.30</td>
-<td style="text-align: center;">-0.06</td>
-<td style="text-align: center;">-5393.36</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">162</td>
-<td style="text-align: center;">3500</td>
-<td style="text-align: center;">Baton Rouge, LA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.32</td>
-<td style="text-align: center;">-0.07</td>
-<td style="text-align: center;">-6945.30</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">162</td>
-<td style="text-align: center;">3500</td>
-<td style="text-align: center;">Hammond, LA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.32</td>
-<td style="text-align: center;">-0.07</td>
-<td style="text-align: center;">-6945.30</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">163</td>
-<td style="text-align: center;">15100</td>
-<td style="text-align: center;">Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.34</td>
-<td style="text-align: center;">-0.07</td>
-<td style="text-align: center;">-6548.46</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">163</td>
-<td style="text-align: center;">15100</td>
-<td style="text-align: center;">Norwalk, OH Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.34</td>
-<td style="text-align: center;">-0.07</td>
-<td style="text-align: center;">-6548.46</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">163</td>
-<td style="text-align: center;">15100</td>
-<td style="text-align: center;">Sandusky, OH Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.34</td>
-<td style="text-align: center;">-0.07</td>
-<td style="text-align: center;">-6548.46</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">164</td>
-<td style="text-align: center;">14900</td>
-<td style="text-align: center;">Gary, IN Metropolitan Division</td>
-<td style="text-align: center;">-0.35</td>
-<td style="text-align: center;">-0.07</td>
-<td style="text-align: center;">-6918.81</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">165</td>
-<td style="text-align: center;">23801</td>
-<td style="text-align: center;">Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.38</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-7293.04</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">165</td>
-<td style="text-align: center;">23801</td>
-<td style="text-align: center;">Peoria, IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.38</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-7293.04</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">166</td>
-<td style="text-align: center;">13501</td>
-<td style="text-align: center;">Monroe, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.40</td>
-<td style="text-align: center;">-0.07</td>
-<td style="text-align: center;">-7403.07</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">166</td>
-<td style="text-align: center;">13501</td>
-<td style="text-align: center;">Toledo, OH Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.40</td>
-<td style="text-align: center;">-0.07</td>
-<td style="text-align: center;">-7403.07</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">167</td>
-<td style="text-align: center;">23900</td>
-<td style="text-align: center;">Ottawa-Streator, IL Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.44</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-8246.60</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">167</td>
-<td style="text-align: center;">23900</td>
-<td style="text-align: center;">Peoria, IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.44</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-8246.60</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">168</td>
-<td style="text-align: center;">11900</td>
-<td style="text-align: center;">Bay City, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.45</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-6969.44</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">168</td>
-<td style="text-align: center;">11900</td>
-<td style="text-align: center;">Midland, MI Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.45</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-6969.44</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">168</td>
-<td style="text-align: center;">11900</td>
-<td style="text-align: center;">Saginaw-Saginaw Township North, MI Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.45</td>
-<td style="text-align: center;">-0.08</td>
-<td style="text-align: center;">-6969.44</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">169</td>
-<td style="text-align: center;">24900</td>
-<td style="text-align: center;">St. Louis, MO-IL Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.46</td>
-<td style="text-align: center;">-0.09</td>
-<td style="text-align: center;">-9285.30</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">170</td>
-<td style="text-align: center;">16200</td>
-<td style="text-align: center;">Altoona, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.58</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-8165.66</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">170</td>
-<td style="text-align: center;">16200</td>
-<td style="text-align: center;">Johnstown, PA Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.58</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-8165.66</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">170</td>
-<td style="text-align: center;">16200</td>
-<td style="text-align: center;">Somerset, PA Micropolitan Statistical Area</td>
-<td style="text-align: center;">-0.58</td>
-<td style="text-align: center;">-0.10</td>
-<td style="text-align: center;">-8165.66</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">171</td>
-<td style="text-align: center;">32100</td>
-<td style="text-align: center;">Beaumont-Port Arthur, TX Metropolitan Statistical Area</td>
-<td style="text-align: center;">-0.62</td>
-<td style="text-align: center;">-0.13</td>
-<td style="text-align: center;">-11784.40</td>
-</tr>
-</tbody>
-</table>
 
 The economic logic behind amenity value
 ---------------------------------------
@@ -3545,7 +508,8 @@ quality-of-life Spira.
 Jennifer Roback laid-out a simple, formal version of this reasoning in
 one equation:
 
-\[p_z = H \frac{dr}{dz} - \frac{dw}{dz}\]
+> *p*<sub>*z*</sub> = H*(dr/dz) - (dw/dz)
+
 Here, *p*<sub>*z*</sub> is the implied price of amenity *z*; *r* is the
 residential rent for the housing unit *H* (this could be defined
 variously, like square feet or rooms, as long as it’s consistent), and
