@@ -9,6 +9,7 @@ menu:
     identifier: amenities
     weight: 500
 math: true
+toc: true
 ---
 
 Background
