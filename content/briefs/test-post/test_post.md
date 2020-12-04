@@ -1,7 +1,7 @@
 ---
 title: "Test Post"
 date: '2020-12-03'
-hero: /images/posts/writing-posts/analytics.svg
+hero: /images/briefs/roback_plot.png
 description: Testing a brief post
 menu:
   sidebar:
