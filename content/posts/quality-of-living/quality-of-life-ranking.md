@@ -502,7 +502,7 @@ month might even seem like a joke to some accustomed to year-round
 sunshine and beach access. Hence, we would say that Acropolis and Upfrum Down a high
 ( &gt; 0) quality of living, measured at 50% of foregone consumption (by giving up the extra \\$400 in wages, compared to their current income of \\$800). We
 could alternatively say that the quality of life in Spira is lower ( &lt; 0), since firms in these cities *need to pay* an
-extra 33% wage each month to keep workers from emigrating to higher
+extra 50% wage each month to keep workers from emigrating to higher
 quality-of-life Spira.
 
 Jennifer Roback laid-out a simple, formal version of this reasoning in
