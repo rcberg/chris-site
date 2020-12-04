@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Economist in the Pacific northwest
+designation: Economist in the Pacific Northwest
 # your company information
 company:
   name:
@@ -37,7 +37,7 @@ socialLinks:
 #
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "www.linkedin.com/in/r-chris-berg"
+  url: "https://www.linkedin.com/in/r-chris-berg"
 
 #- name: Twitter
 #  icon: "fab fa-twitter"

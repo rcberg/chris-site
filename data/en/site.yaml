@@ -6,6 +6,3 @@ description: Portfolio and personal site of C. Berg.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
-customMenus:
-- name: Notes
-  url: https://hossainemruz.gitbook.io/

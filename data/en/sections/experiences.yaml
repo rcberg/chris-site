@@ -11,11 +11,11 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: University of Oregon
+    name: Master of Sciences, Economics
     location: Eugene, OR
     overview: Completed advanced coursework in applied microeconomics, econometrics, and data science.
   positions:
-  - designation: Master of Sciences, Economics
+  - designation: University of Oregon
     start: September 2018
     end: March 2020
 

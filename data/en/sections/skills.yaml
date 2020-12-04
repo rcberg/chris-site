@@ -13,7 +13,7 @@ section:
 skills:
 - name: R
   icon: "images/skills/R.png"
-  summary: "Scripting; wrangling and cleaning multitudes of various data formats using R; conducting reproducible spatial, statistical, and advanced econometric analysis; building packages."
+  summary: "Scripting; wrangling and cleaning multitudes of data formats using R; conducting reproducible spatial, statistical, and advanced econometric analysis; building packages."
   url: "https://www.r-project.org/"
 
 - name: Stata

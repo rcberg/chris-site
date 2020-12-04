@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://rcberg.netlify.app/
 languageCode: en-us
 title: "Toha"
 theme: "toha"
@@ -36,7 +36,7 @@ enableEmoji: true
 # Custom parameters
 params:
   # background image of the landing page
-  background: images/background.jpg
+  background: "images/background.jpg"
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -47,7 +47,7 @@ params:
     favicon: assets/images/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  gitRepo: https://github.com/rcberg/chris-site
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
