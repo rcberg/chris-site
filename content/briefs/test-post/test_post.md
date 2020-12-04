@@ -8,6 +8,7 @@ menu:
     name: Testing
     identifier: test
     weight: 500
+math: true
 ---
 
 Background
@@ -487,16 +488,16 @@ The economic logic behind amenity value
 
 A thought experiment to start off. Imagine three cities within a county:
 Acropolis, Upfrum Down, and Spira. In Acropolis and Upfrum Down, the
-wage is \$200 per week. In Spira, on the other hand, the wage is \$300 per
+wage is \\$200 per week. In Spira, on the other hand, the wage is \\$300 per
 week. Continue to imagine that anyone can rent a residence (or purchase
-at an equal ownership cost) for $300 per month. In fact, go ahead and
+at an equal ownership cost) for \\$300 per month. In fact, go ahead and
 assume that all other prices except for the wage are the same. The
 obvious question that arises is why does anyone still live in Acropolis
 or Upfrum Down? Couldn’t people just move to Spira and have the same
-residence, with an extra $400 a month to spend enjoying other goods and
+residence, with an extra \\$400 a month to spend enjoying other goods and
 services? Using examples from before, one wonders if maybe Spira is
 similar to Milwaukee or Minneapolis, with Acropolis and Upfrum Down
-similar to somplace like Los Angeles and San Francisco. The extra $400 a
+similar to somplace like Los Angeles and San Francisco. The extra \\$400 a
 month might even seem like a joke to some accustomed to year-round
 sunshine and beach access. Hence, we would say that Spira has a high
 ( &gt; 0) quality of life, measured at 33% of foregone consumption. We
@@ -508,22 +509,22 @@ quality-of-life Spira.
 Jennifer Roback laid-out a simple, formal version of this reasoning in
 one equation:
 
-> *p*<sub>*z*</sub> = H*(dr/dz) - (dw/dz)
+$$p_z = H \frac{dr}{dz} - \frac{dw}{dz}$$
 
-Here, *p*<sub>*z*</sub> is the implied price of amenity *z*; *r* is the
-residential rent for the housing unit *H* (this could be defined
+Here, $p_z$ is the implied price of amenity $z$; $r$ is the
+residential rent for the housing unit $H$ (this could be defined
 variously, like square feet or rooms, as long as it’s consistent), and
-*w* is the wage that the worker accepts.
+$w$ is the wage that the worker accepts.
 
 For those who prefer English to mathematics, it’s just the intuition
-laid-out above; the value *p*<sub>*z*</sub> of an additional amount of
-the local amenity *dz* is revealed by the difference between its
+laid-out above; the value $p_z$ of an additional amount of
+the local amenity $dz$ is revealed by the difference between its
 contribution to rent spending and its contribution to workers earnings.
-Above, we formulated *z* as the amount of some particular amenity, like
+Above, we formulated $z$ as the amount of some particular amenity, like
 average termperature in January, or distance to national forests. We
-could also consider *z* instead to be the value of *every combined
+could also consider $z$ instead to be the value of *every combined
 place-based amenity* in a local area. David Albouy writing in 2008
-summarises the best intuition for this interpretation of *z*:
+summarises the best intuition for this interpretation of $z$:
 
 “[It] represents the [fraction] of total consumption households are
 willing to forego to live in [a city with these rents and wages]
@@ -536,7 +537,7 @@ down and they would leave the area, right? Maybe that seems *too*
 simple, and while it is simplistic, it seems to do a good job describing
 what’s going on with people’s choices.
 
-Hence, we can interpret *z* as a *cardinal measure of quality of life*
+Hence, we can interpret $z$ as a *cardinal measure of quality of life*
 separate from earnings or living expenses required to stay in the area.
 Even though we use those to measure this quality of life, it’s
 independent because it’s the value that’s *revealed* by people’s choices
