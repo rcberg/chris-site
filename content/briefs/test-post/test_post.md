@@ -1,6 +1,6 @@
 ---
 title: "Test Post"
-date: `r sys.Date()`
+date: 2020-12-03
 hero: /images/posts/writing-posts/analytics.svg
 description: Testing a brief post
 menu:
