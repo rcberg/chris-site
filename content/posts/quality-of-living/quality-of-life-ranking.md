@@ -499,10 +499,9 @@ services? Using examples from before, one wonders if maybe Spira is
 similar to Milwaukee or Minneapolis, with Acropolis and Upfrum Down
 similar to somplace like Los Angeles and San Francisco. The extra \\$400 a
 month might even seem like a joke to some accustomed to year-round
-sunshine and beach access. Hence, we would say that Spira has a high
-( &gt; 0) quality of life, measured at 33% of foregone consumption. We
-could alternatively say that the quality of life in Acropolis and Upfrum
-Down is lower ( &lt; 0), since firms in these cities need to *pay* an
+sunshine and beach access. Hence, we would say that Acropolis and Upfrum Down a high
+( &gt; 0) quality of living, measured at 50% of foregone consumption (by giving up the extra \\$400 in wages, compared to their current income of \\$800). We
+could alternatively say that the quality of life in Spira is lower ( &lt; 0), since firms in these cities *need to pay* an
 extra 33% wage each month to keep workers from emigrating to higher
 quality-of-life Spira.
 
@@ -523,12 +522,12 @@ contribution to rent spending and its contribution to workers earnings.
 Above, we formulated $z$ as the amount of some particular amenity, like
 average termperature in January, or distance to national forests. We
 could also consider $z$ instead to be the value of *every combined
-place-based amenity* in a local area. David Albouy writing in 2008
+place-based amenity* in a local area. David Albouy writing in 2012
 summarises the best intuition for this interpretation of $z$:
 
-“[It] represents the [fraction] of total consumption households are
+>"[It] represents the [fraction] of total consumption households are
 willing to forego to live in [a city with these rents and wages]
-instead of an average city.”
+instead of an average city."
 
 If local amenities are associated with more spending on rent relative to
 earnings, and people aren’t moving away from an area, they must value
