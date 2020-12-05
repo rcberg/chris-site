@@ -8,7 +8,7 @@ description: Study of quality of living values in US commuting zones
 theme: Toha
 menu:
   sidebar:
-    name: Briefs
+    name: Briefings
     identifier: amenities
     weight: 500
 math: true
