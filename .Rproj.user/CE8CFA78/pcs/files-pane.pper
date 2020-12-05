@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": false
+            "ascending": true
         }
     ],
-    "path": "D:/Economics/Projects/chris-site/themes/toha/archetypes"
+    "path": "D:/Economics/Projects/toha-configure/content/posts"
 }
