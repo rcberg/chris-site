@@ -152,7 +152,7 @@
   }
 
   #toc-toggler {
-    visibility: visible;
+    visibility: hidden;
   }
 
   .navbar-collapse.lang-selector {
