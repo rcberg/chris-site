@@ -1,8 +1,11 @@
 ---
 title: "Quality of Life in American Commuting Zones, Ranked"
 date: '2020-12-03'
+author:
+  name: Chris B.
 hero: /images/briefs/snowfall_plot.png
 description: Study of quality of living values in US commuting zones
+theme: Toha
 menu:
   sidebar:
     name: Briefs
