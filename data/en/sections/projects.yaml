@@ -10,8 +10,8 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
+#- name: All
+#  filter: "all"
 - name: Dashboards
   filter: "dashboards"
 - name: Briefings
@@ -53,7 +53,7 @@ projects:
   logo: 
   role: 
   timeline: "9 December, 2020"
-  repo: https://github.com/rcberg/2019-ncov-tracking # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  repo: https://www.rcberg.com/posts/social-insurance/social-insurance-briefing/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Multiple COVID-19 dashboards providing information on cases and hospitalizations for US counties, states, and the world. Scroll to the bottom of the repo. for links.
   tags: ["briefings"]
@@ -62,7 +62,7 @@ projects:
   logo: 
   role: 
   timeline: "3 December, 2020"
-  repo: https://github.com/rcberg/2019-ncov-tracking # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  repo: https://www.rcberg.com/posts/quality-of-living/quality-of-life-ranking/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Multiple COVID-19 dashboards providing information on cases and hospitalizations for US counties, states, and the world. Scroll to the bottom of the repo. for links.
   tags: ["briefings"]
