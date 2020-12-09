@@ -1,15 +1,15 @@
 ---
-title: "Social Insurance"
+title: "The Economics of Social Insurance"
 date: '2020-12-09'
 author:
   name: Chris B.
-hero: /images/briefs/snowfall_plot.png
-description: Study of quality of living values in US commuting zones
+hero: /images/briefs/utility-risk.png
+description: Microeconomic principles of social insurance
 theme: Toha
 menu:
   sidebar:
-    name: Briefings
-    identifier: amenities
+    name: Social Insurance
+    identifier: insurance
     weight: 500
 math: true
 toc: true
@@ -27,7 +27,7 @@ overly-skeptical of legitimate roles of taxation and government
 intervention.
 
 <p align="center">
-<img src="deadweight-loss.png" width="60%" height="60%" alt="Usual treatment of taxation"/>
+<img src="/images/briefs/deadweight-loss.png" width="60%" height="60%" alt="Usual treatment of taxation"/>
 </p>
 
 Taxation in otherwise-“flawless”[1] markets is not the only thing which
@@ -38,7 +38,7 @@ improve consumer well-being. The case examined here: risk. Specifically,
 lifetime income risk.
 
 <p align="center">
-<img src="utility-risk.png" width="60%" height="60%" alt="Risk averse decision making"/>
+<img src="/images/briefs/utility-risk.png" width="60%" height="60%" alt="Risk averse decision making"/>
 </p>
 
 In the above graph, the solid black line shows how a worker’s well-being
@@ -81,7 +81,7 @@ workers’ income and rebate it to them in the form of what Varian calls a
 reduces the overall income risk the workers face.
 
 <p align="center">
-<img src="half_tax_consump.png" width="70%" height="70%" alt="Fifty percent tax"/>
+<img src="/images/briefs/half_tax_consump.png" width="70%" height="70%" alt="Fifty percent tax"/>
 </p>
 
 Up until generation 100, there is no tax and no rebate– consumers
@@ -92,7 +92,7 @@ consumers. Visible in the figure, this reduces the variation in
 retirement consumption.
 
 <p align="center">
-<img src="full_tax_consump.png" width="70%" height="70%" alt="One hundred percent tax"/>
+<img src="/images/briefs/full_tax_consump.png" width="70%" height="70%" alt="One hundred percent tax"/>
 </p>
 
 In the second figure above, the tax rate is instead 100%– all unexpected
@@ -109,7 +109,7 @@ tax rate from 1% to 100% and run the simulation 1,000 times for each tax
 rate, calculating the difference in well-being for each tax rate.
 
 <p align="center">
-<img src="utility_variation.png" width="70%" height="70%" alt="Tax rate vs utility gains"/>
+<img src="/images/briefs/utility_variation.png" width="70%" height="70%" alt="Tax rate vs utility gains"/>
 </p>
 
 By adjusting the workers’ “patience” or “discount” factor– they might be
@@ -124,19 +124,19 @@ they’d amount to tens of thousands of dollars of lifetime income.
 ### Effect on other economic variables
 
 <p align="center">
-<img src="full_tax_savings.png" width="70%" height="70%" alt="FIfty percent tax"/>
+<img src="/images/briefs/full_tax_savings.png" width="70%" height="70%" alt="FIfty percent tax"/>
 </p>
 <p align="center">
-<img src="full_tax_capital.png" width="70%" height="70%" alt="FIfty percent tax"/>
+<img src="/images/briefs/full_tax_capital.png" width="70%" height="70%" alt="FIfty percent tax"/>
 </p>
 <p align="center">
-<img src="full_tax_output.png" width="70%" height="70%" alt="FIfty percent tax"/>
+<img src="/images/briefs/full_tax_output.png" width="70%" height="70%" alt="FIfty percent tax"/>
 </p>
 <p align="center">
-<img src="full_tax_wage.png" width="70%" height="70%" alt="FIfty percent tax"/>
+<img src="/images/briefs/full_tax_wage.png" width="70%" height="70%" alt="FIfty percent tax"/>
 </p>
 <p align="center">
-<img src="full_tax_r.png" width="70%" height="70%" alt="FIfty percent tax"/>
+<img src="/images/briefs/full_tax_r.png" width="70%" height="70%" alt="FIfty percent tax"/>
 </p>
 
 As we can see, lower lifetime income uncertainty significantly boosts
