@@ -41,15 +41,15 @@ In the above graph, the solid black line shows how a worker’s well-being
 increases with their consumption– it has diminishing returns (more is
 better overall, but you don’t savor the first bite as much as the last).
 The situation described on the graph is where a worker faces a risk of
-ending up with a “low” consumption level *x*<sub>1</sub> or a “high”
-consumption level *x*<sub>2</sub>. This gamble gives the worker a level
+ending up with a “low” consumption level $x_1$ or a “high”
+consumption level $x_2$. This gamble gives the worker a level
 of well-being somewhere along dashed line segment connecting the two
 points of the solid line curve (where, exactly, depends on the chance of
 winning/losing the gamble). Unless the chance of winning is exactly 0%
 or 100%, the worker would **absolutely** be better-off receiving some
-*guaranteed* amount of *x* between the two outcomes. Even with a 99%
-chance of winning the amount *x*<sub>2</sub>, we could find an amount
-slightly less than *x*<sub>2</sub> that would make the worker happier if
+*guaranteed* amount of $x$ between the two outcomes. Even with a 99%
+chance of winning the amount $x_2$, we could find an amount
+slightly less than $x_2$ that would make the worker happier if
 they knew they’d get it for certain.
 
 In daily life, individuals face all sorts of risks that have little to
