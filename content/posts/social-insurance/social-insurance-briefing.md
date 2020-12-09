@@ -3,7 +3,7 @@ title: "The Economics of Social Insurance"
 date: '2020-12-09'
 author:
   name: Chris B.
-hero: /images/briefs/utility-risk.png
+hero: /posts/social-insurance/images/utility-risk.png
 description: Microeconomic principles of social insurance
 theme: Toha
 menu:
