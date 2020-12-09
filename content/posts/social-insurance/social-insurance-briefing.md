@@ -28,7 +28,7 @@ intervention.
 
 {{< img src="/images/briefs/deadweight-loss.png" width="60%" height="60%" alt="Usual treatment of taxation" align="center" >}}
 
-Taxation in otherwise-“flawless”[1] markets is not the only thing which
+Taxation in otherwise-“flawless”[^1] markets is not the only thing which
 can reduce consumer surplus, though, and there has been a [large amount
 of ink spilled](https://en.wikipedia.org/wiki/Theory_of_the_second_best)
 about the ways that taxation and government intervention can actually
@@ -104,7 +104,7 @@ rate, calculating the difference in well-being for each tax rate.
 
 By adjusting the workers’ “patience” or “discount” factor– they might be
 less-patient, preferring immediate reward to having higher well-being in
-retirement[2]– we can see that the tax always leaves our decision-makers
+retirement[^2]– we can see that the tax always leaves our decision-makers
 unambiguously better off. In fact, it will be best to have full (or
 near-full) insurance against risk of this type. These gains furthermore
 represent a substantial improvement in quality of living– when
@@ -160,7 +160,7 @@ problems– there’s no insurer a potentially-vulnerable industry employee
 can call to write a contract to offset their occupation risk. In
 general, we see huge earnings inequality/variation even within
 occupations and parental class which is ostensibly due to chance or
-accident[3], and this model illustrates the possibility for
+accident[^3], and this model illustrates the possibility for
 redistributive taxation to improve overall well being in such cases.
 
 A related problem for many kinds of private insurance comes with the
@@ -189,10 +189,10 @@ existence of these problems nonetheless renders the taxation and
 redistribution model used in the text relevant for many risks in market
 economies.
 
-[1] In terms of being on the “competitive” end of the market structure
+[^1]: In terms of being on the “competitive” end of the market structure
 spectrum.
 
-[2] This “discount factor” is directly proportional to how much workers
+[^2]: This “discount factor” is directly proportional to how much workers
 choose to save. A discount factor of 0.55 means that the worker gets
 about half as much well-being from waiting to consume the proverbial
 marshmallow in retirement, than if they got to have it now. Studies
@@ -200,4 +200,4 @@ suggest the discount factor is generally greater than 0.8, macroeconomic
 models like the one we are using typically use a discount factor of 0.95
 as I have done.
 
-[3] <a href="https://www.umass.edu/preferen/gintis/jelpap.pdf" class="uri">https://www.umass.edu/preferen/gintis/jelpap.pdf</a>
+[^3]: <a href="https://www.umass.edu/preferen/gintis/jelpap.pdf" class="uri">https://www.umass.edu/preferen/gintis/jelpap.pdf</a>
