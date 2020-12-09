@@ -1,3 +1,3 @@
 ---
-title: Briefs
+title: Quality of Living
 ---  
