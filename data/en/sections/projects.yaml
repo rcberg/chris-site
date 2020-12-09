@@ -14,6 +14,8 @@ buttons:
   filter: "all"
 - name: Dashboards
   filter: "dashboards"
+- name: Briefings
+  filter: "briefings"
 #- name: Academic
 #  filter: "academic"
 #- name: Hobby
@@ -46,3 +48,21 @@ projects:
   url: https://raw.githack.com/rcberg/health-economics/main/reports/presentations/interactive_suicide_state_night.html
   summary: Data on the US national suicide rate, with interactive features (map/graph) to explore detailed state-level suicide rates.
   tags: ["dashboards"]
+
+- name: Economics of social insurance
+  logo: 
+  role: 
+  timeline: "9 December, 2020"
+  repo: https://github.com/rcberg/2019-ncov-tracking # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Multiple COVID-19 dashboards providing information on cases and hospitalizations for US counties, states, and the world. Scroll to the bottom of the repo. for links.
+  tags: ["briefings"]
+  
+- name: Quality of living rankings
+  logo: 
+  role: 
+  timeline: "3 December, 2020"
+  repo: https://github.com/rcberg/2019-ncov-tracking # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Multiple COVID-19 dashboards providing information on cases and hospitalizations for US counties, states, and the world. Scroll to the bottom of the repo. for links.
+  tags: ["briefings"]
