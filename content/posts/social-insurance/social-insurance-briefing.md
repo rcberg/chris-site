@@ -26,9 +26,7 @@ economics students may attach to this very specific case and become
 overly-skeptical of legitimate roles of taxation and government
 intervention.
 
-<p align="center">
-<img src="rcberg.com/images/briefs/deadweight-loss.png" width="60%" height="60%" alt="Usual treatment of taxation"/>
-</p>
+{{ <img src="posts/social-insurance/deadweight-loss.png" width="60%" height="60%" alt="Usual treatment of taxation" align="center" > }}
 
 Taxation in otherwise-“flawless”[1] markets is not the only thing which
 can reduce consumer surplus, though, and there has been a [large amount
@@ -37,9 +35,7 @@ about the ways that taxation and government intervention can actually
 improve consumer well-being. The case examined here: risk. Specifically,
 lifetime income risk.
 
-<p align="center">
-<img src="rcberg.com/images/briefs/utility-risk.png" width="60%" height="60%" alt="Risk averse decision making"/>
-</p>
+{{ <img src="posts/social-insurance/utility-risk.png" width="60%" height="60%" alt="Risk averse decision making" align="center" > }}
 
 In the above graph, the solid black line shows how a worker’s well-being
 increases with their consumption– it has diminishing returns (more is
@@ -80,9 +76,7 @@ workers’ income and rebate it to them in the form of what Varian calls a
 [“demogrant,”](https://en.wikipedia.org/wiki/Citizen%27s_dividend) which
 reduces the overall income risk the workers face.
 
-<p align="center">
-<img src="rcberg.com/images/briefs/half_tax_consump.png" width="70%" height="70%" alt="Fifty percent tax"/>
-</p>
+{{ < img src="posts/social-insurance/half_tax_consump.png" width="70%" height="70%" alt="Fifty percent tax" align="center" > }}
 
 Up until generation 100, there is no tax and no rebate– consumers
 passively accept the uncertainty with their income, and try to adjust
@@ -91,9 +85,7 @@ steps in and imposes a tax rate of 50%, and fully rebates it to
 consumers. Visible in the figure, this reduces the variation in
 retirement consumption.
 
-<p align="center">
-<img src="rcberg.com/images/briefs/full_tax_consump.png" width="70%" height="70%" alt="One hundred percent tax"/>
-</p>
+{{ < img src="posts/social-insurance/full_tax_consump.png" width="70%" height="70%" alt="One hundred percent tax" align="center" > }}
 
 In the second figure above, the tax rate is instead 100%– all unexpected
 income is confiscated by the tax and fully rebated to the workers. It
@@ -108,9 +100,7 @@ economic output) that act to un-do this risk aversion. So let’s vary the
 tax rate from 1% to 100% and run the simulation 1,000 times for each tax
 rate, calculating the difference in well-being for each tax rate.
 
-<p align="center">
-<img src="rcberg.com/images/briefs/utility_variation.png" width="70%" height="70%" alt="Tax rate vs utility gains"/>
-</p>
+{{ < img src="posts/social-insurance/utility_variation.png" width="70%" height="70%" alt="Tax rate vs utility gains" align="center" > }}
 
 By adjusting the workers’ “patience” or “discount” factor– they might be
 less-patient, preferring immediate reward to having higher well-being in
@@ -123,21 +113,15 @@ they’d amount to tens of thousands of dollars of lifetime income.
 
 ### Effect on other economic variables
 
-<p align="center">
-<img src="rcberg.com/images/briefs/full_tax_savings.png" width="70%" height="70%" alt="FIfty percent tax"/>
-</p>
-<p align="center">
-<img src="rcberg.com/images/briefs/full_tax_capital.png" width="70%" height="70%" alt="FIfty percent tax"/>
-</p>
-<p align="center">
-<img src="rcberg.com/images/briefs/full_tax_output.png" width="70%" height="70%" alt="FIfty percent tax"/>
-</p>
-<p align="center">
-<img src="rcberg.com/images/briefs/full_tax_wage.png" width="70%" height="70%" alt="FIfty percent tax"/>
-</p>
-<p align="center">
-<img src="rcberg.com/images/briefs/full_tax_r.png" width="70%" height="70%" alt="FIfty percent tax"/>
-</p>
+{{ < img src="posts/social-insurance/full_tax_savings.png" width="70%" height="70%" alt="Savings effect of tax" align="center" > }}
+
+{{ < img src="posts/social-insurance/full_tax_capital.png" width="70%" height="70%" alt="Capital effect of tax" align="center" > }}
+
+{{ < img src="posts/social-insurance/full_tax_output.png" width="70%" height="70%" alt="Output effect of tax" align="center" > }}
+
+{{ < img src="posts/social-insurance/full_tax_wage.png" width="70%" height="70%" alt="Wage effect of tax" align="center" > }}
+
+{{ < img src="posts/social-insurance/full_tax_r.png" width="70%" height="70%" alt="Interest effect of tax" align="center" > }}
 
 As we can see, lower lifetime income uncertainty significantly boosts
 worker savings, which increases capital per worker as well as GDP per
