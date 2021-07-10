@@ -29,7 +29,7 @@ projects:
   timeline: "July 2021 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: https://rcberg.shinyapps.io/new-msa-building-permits/ # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: In the midst of a housing crisis in the United States, which metro. (and micro.) areas are approving the most new housing permits? Using the US Census Bureau's Building Permits Survey data, this web app was made so that anyone can explore the data, and see for themselves.
+  summary: In the midst of a housing crisis in the United States, which metro. (and micro.) areas are approving the most new housing permits? Using the US Census Bureau's Building Permits Survey data, I made this web app so that anyone can explore the data, and see for themselves.
   tags: ["dashboards"]
   
 - name: COVID-19 Updates
