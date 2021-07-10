@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
 	<meta name="generator" content="Hugo 0.76.5" />
-    <title>Chris B.</title>
+    <title>Toha</title>
     <meta name="description" content="" />
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -34,12 +34,29 @@
 
     
     
+        
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-XXXXXXXXX-X', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
   </head>
   <body data-spy="scroll" data-target="#top-navbar" data-offset="100">
 
     
 
 
+  
+
+
+  
 
 
 
@@ -50,7 +67,7 @@
 <nav class="navbar navbar-expand-xl top-navbar initial-navbar" id="top-navbar">
   <div class="container">
     <a class="navbar-brand" href="/">
-      <img src="https://rcberg.com/assets/images/inverted-logo.png" id="logo">Chris B.</a>
+      <img src="https://rcberg.com/assets/images/inverted-logo.png" id="logo">Toha</a>
     <button
       class="navbar-toggler navbar-dark"
       id="navbar-toggler"
@@ -150,7 +167,17 @@
         
         
         
+          <div class="dropdown-divider" id="top-navbar-divider"></div>
         
+        
+          <li class="nav-item">
+            <a class="nav-link" id="blog-link" href="/posts">Posts</a>
+          </li>
+        
+        
+          <li class="nav-item">
+            <a class="nav-link" href="https://rcberg.com/posts/">Briefings</a>
+          </li>
         
         
       </ul>
@@ -177,6 +204,8 @@
 
 
 
+  
+
 
 
 
@@ -186,7 +215,7 @@
 <div class="container-fluid home" id="home">
   <div
     class="background container-fluid"
-    style="background-image: url('https://rcberg.com/assets/images/background.jpg');"
+    style="background-image: url('https://rcberg.com/images/background.jpg');"
   ></div>
   <div class="container content text-center">
     <img src="https://rcberg.com/images/avatar.jpg"
@@ -262,7 +291,7 @@
       </h5>
       
       <p class="p-1 text-justify">
-        
+        Scroll down to check out my dashboards and other personal projects, or take a look at some of my policy briefings using the &ldquo;Briefings&rdquo; link at the top, or from my &ldquo;Projects&rdquo; menu below.
       </p>
       <div class="text-container ml-auto">
         <ul class="social-link d-flex">
@@ -658,18 +687,56 @@
   <div class="container ml-auto text-center">
     <div class="btn-group flex-wrap" role="group" id="project-filter-buttons">
       
-      <button type="button" class="btn btn-dark" data-filter="all">
-        All
-      </button>
-      
       <button type="button" class="btn btn-dark" data-filter="dashboards">
         Dashboards
+      </button>
+      
+      <button type="button" class="btn btn-dark" data-filter="briefings">
+        Briefings
       </button>
       
     </div>
   </div>
   <div class="container filtr-projects">
     <div class="row" id="project-card-holder">
+      
+        <div
+  class="col-sm-12 col-md-6 col-lg-4 p-2 filtr-item"
+  data-category='all, dashboards'
+>
+  <div class="card mt-1">
+    <div class="card">
+      <a class="card-header" href="https://rcberg.shinyapps.io/new-msa-building-permits/">
+        <div>
+          <div class="d-flex">
+            
+            <img class="card-img-xs" src="https://rcberg.com/images/projects/construction-icon.svg" alt="New Building Permits by MSA (App)" />
+            
+            <h5 class="card-title mb-0">New Building Permits by MSA (App)</h5>
+          </div>
+          <div class="sub-title">
+            <span></span>
+            <span>July 2021 - Present</span>
+          </div>
+        </div>
+      </a>
+      <div class="card-body text-justify pt-1 pb-1">
+        <p>In the midst of a housing crisis in the United States, which metro. (and micro.) areas are approving the most new housing permits? Using the US Census Bureau&rsquo;s Building Permits Survey data, this web app was made so that anyone can explore the data, and see for themselves.</p>
+        <span class="float-right">
+          
+          <a
+            class="btn btn-outline-info btn-sm mb-2"
+            href="https://rcberg.shinyapps.io/new-msa-building-permits/"
+            target="#"
+            >Details</a
+          >
+          
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
       
         <div
   class="col-sm-12 col-md-6 col-lg-4 p-2 filtr-item"
@@ -717,44 +784,6 @@
 >
   <div class="card mt-1">
     <div class="card">
-      <a class="card-header" href="https://raw.githack.com/rcberg/spatial/master/report/presentations/fire-map/interactive-fire-map-nightmode.html">
-        <div>
-          <div class="d-flex">
-            
-            <img class="card-img-xs" src="https://rcberg.com/images/projects/icon-wildfire.png" alt="Wildfire and Air Quality" />
-            
-            <h5 class="card-title mb-0">Wildfire and Air Quality</h5>
-          </div>
-          <div class="sub-title">
-            <span></span>
-            <span>Sept 2020 - Present</span>
-          </div>
-        </div>
-      </a>
-      <div class="card-body text-justify pt-1 pb-1">
-        <p>A fully-interactive map featuring US wildfire areas as well as Air Quality Index (AQI) readings from air quality sensors.</p>
-        <span class="float-right">
-          
-          <a
-            class="btn btn-outline-info btn-sm mb-2"
-            href="https://raw.githack.com/rcberg/spatial/master/report/presentations/fire-map/interactive-fire-map-nightmode.html"
-            target="#"
-            >Details</a
-          >
-          
-        </span>
-      </div>
-    </div>
-  </div>
-</div>
-
-      
-        <div
-  class="col-sm-12 col-md-6 col-lg-4 p-2 filtr-item"
-  data-category='all, dashboards'
->
-  <div class="card mt-1">
-    <div class="card">
       <a class="card-header" href="https://raw.githack.com/rcberg/health-economics/main/reports/presentations/interactive_suicide_state_night.html">
         <div>
           <div class="d-flex">
@@ -778,6 +807,82 @@
             href="https://raw.githack.com/rcberg/health-economics/main/reports/presentations/interactive_suicide_state_night.html"
             target="#"
             >Details</a
+          >
+          
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+        <div
+  class="col-sm-12 col-md-6 col-lg-4 p-2 filtr-item"
+  data-category='all, briefings'
+>
+  <div class="card mt-1">
+    <div class="card">
+      <a class="card-header" href="https://www.rcberg.com/posts/social-insurance/social-insurance-briefing/">
+        <div>
+          <div class="d-flex">
+            
+            <h5 class="card-title mb-0">Economics of social insurance</h5>
+          </div>
+          <div class="sub-title">
+            <span></span>
+            <span>9 December, 2020</span>
+          </div>
+        </div>
+      </a>
+      <div class="card-body text-justify pt-1 pb-1">
+        <p>Multiple COVID-19 dashboards providing information on cases and hospitalizations for US counties, states, and the world. Scroll to the bottom of the repo. for links.</p>
+        <span class="float-right">
+          
+          <a
+            class="github-button-inactive"
+            href="https://www.rcberg.com/posts/social-insurance/social-insurance-briefing/"
+            data-icon="octicon-standard"
+            data-show-count="true"
+            aria-label="Star Economics of social insurance"
+            >Star</a
+          >
+          
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+        <div
+  class="col-sm-12 col-md-6 col-lg-4 p-2 filtr-item"
+  data-category='all, briefings'
+>
+  <div class="card mt-1">
+    <div class="card">
+      <a class="card-header" href="https://www.rcberg.com/posts/quality-of-living/quality-of-life-ranking/">
+        <div>
+          <div class="d-flex">
+            
+            <h5 class="card-title mb-0">Quality of living rankings</h5>
+          </div>
+          <div class="sub-title">
+            <span></span>
+            <span>3 December, 2020</span>
+          </div>
+        </div>
+      </a>
+      <div class="card-body text-justify pt-1 pb-1">
+        <p>Multiple COVID-19 dashboards providing information on cases and hospitalizations for US counties, states, and the world. Scroll to the bottom of the repo. for links.</p>
+        <span class="float-right">
+          
+          <a
+            class="github-button-inactive"
+            href="https://www.rcberg.com/posts/quality-of-living/quality-of-life-ranking/"
+            data-icon="octicon-standard"
+            data-show-count="true"
+            aria-label="Star Quality of living rankings"
+            >Star</a
           >
           
         </span>
@@ -881,6 +986,26 @@
         </ul>
       </div>
       
+      
+      <div class="col-md-4 col-sm-12">
+        
+        <p>Stay up to date with email notification</p>
+        <form>
+          <div class="form-group">
+            <input
+              type="email"
+              class="form-control"
+              id="exampleInputEmail1"
+              aria-describedby="emailHelp"
+              placeholder="Enter email"
+            />
+            <small id="emailHelp" class="form-text text-muted"
+              >We&#39;ll never share your email with anyone else.</small
+            >
+          </div>
+          <button type="submit" class="btn btn-info">Submit</button>
+        </form>
+      </div>
       
     </div>
   </div>

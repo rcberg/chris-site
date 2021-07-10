@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris B.</title>
+    <title>Toha</title>
     <link>https://rcberg.com/</link>
-    <description>Recent content on Chris B.</description>
+    <description>Recent content on Toha</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rcberg.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rcberg.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Economics of Social Insurance</title>
+      <link>https://rcberg.com/posts/social-insurance/social-insurance-briefing/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rcberg.com/posts/social-insurance/social-insurance-briefing/</guid>
+      <description>Background The first thing economics students typically learn about taxation is simply that it reduces surplus in a market that’s in a competitive equilibrium (see pic). While true, this is a highly incomplete summary of what economics has to say about taxation. Without additional context, economics students may attach to this very specific case and become overly-skeptical of legitimate roles of taxation and government intervention.
+Taxation in otherwise-“flawless”1 markets is not the only thing which can reduce consumer surplus, though, and there has been a large amount of ink spilled about the ways that taxation and government intervention can actually improve consumer well-being.</description>
+    </item>
+    
+    <item>
+      <title>Quality of Life in American Commuting Zones, Ranked</title>
+      <link>https://rcberg.com/posts/quality-of-living/quality-of-life-ranking/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rcberg.com/posts/quality-of-living/quality-of-life-ranking/</guid>
+      <description>Background How much value does amenities like warm and sunny late November days, or being up the street from hot beaches on the Pacific Ocean, contribute to the greater Los Angeles area? What are harsh winters and high crime rates in Milwaukee really worth to the residents? These are uniquely economic questions which shed light on the world of value beyond dollars and cents. Urban economics offers us tools that we can use to map information on the choices people make (such as the wages paid at whichever job they accept, or the rents paid at the residence they pick) to the value they place on the ineffable local qualities of their surroundings.</description>
+    </item>
+    
   </channel>
 </rss>
