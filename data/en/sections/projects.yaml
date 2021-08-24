@@ -29,7 +29,7 @@ projects:
   timeline: "July 2021 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: https://rcberg.shinyapps.io/or-cjc-equity-dashboard-design/ # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Dashboard highlighting criminal justice disparities with respect to race, made for the Oregon Criminal Justice Commission's consideration in a job application.
+  summary: Dashboard highlighting criminal justice disparities with respect to race, made for the Oregon Criminal Justice Commission's consideration (using their data) in a job application.
   tags: ["dashboards"]
   
 - name: New Building Permits by MSA (App)
