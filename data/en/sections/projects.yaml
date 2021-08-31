@@ -30,7 +30,7 @@ projects:
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: https://rpubs.com/rcberg/covid19_employment_effects_seasonal_adjustment/ # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Statistical briefing highlighting the importance of seasonal adjustment when examining labor market outcomes; application to the labor market impact of COVID-19.
-  tags: ["dashboards", "all"]
+  tags: ["briefings", "all"]
   
 - name: Oregon Race, Ethnicity, and Gender Demographic Dashboard Concept (App)
   logo: images/projects/pie-chart-683.svg
