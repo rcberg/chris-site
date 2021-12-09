@@ -3,7 +3,7 @@ title: "Crop yield factors and climate risks"
 date: '2021-12-08'
 author:
   name: Chris B.
-hero: /images/briefs/climate-risk-post-corn-stock.jpg
+hero: /images/briefs/climate-risk-post-corn-stock-photo.jpg
 description: Data analysis of crop yield response to climate variation
 theme: Toha
 menu:
