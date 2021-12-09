@@ -23,6 +23,15 @@ buttons:
 
 # your projects
 projects:
+- name: Data Analysis of Crop Yield Response to Climate Variation
+  logo: images/projects/chart-icon.png
+  role: 
+  timeline: "8 December, 2021"
+  #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://www.rcberg.com/posts/crop-yield-climate-risk/agriculture-climate-risk-briefing/ # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Data analysis of how variation in temperature and precipitation affects crop yields, with an eye towards climate change impacts.
+  tags: ["briefings", "all"]
+  
 - name: Assessing Seasonality in Estimates of the COVID-19 Employment Shock
   logo: images/projects/chart-icon.png
   role: 

@@ -3,8 +3,8 @@ title: "Crop yield factors and climate risks"
 date: '2021-12-08'
 author:
   name: Chris B.
-hero: 
-description: Data analysis of crop yield response to climate variables
+hero: /images/briefs/climate-risk-post-corn-stock.jpg
+description: Data analysis of crop yield response to climate variation
 theme: Toha
 menu:
   sidebar:
@@ -14,6 +14,11 @@ menu:
 math: true
 toc: true
 ---
+
+Executive summary
+-----------------
+
+Long-term climate forecasts project rises in both temperature and precipitation levels over the coming 50-100 years. Because temperature and precipitation are both important factors determining agricultural yields, these projections have important consequences for future agricultural productivity. To help better-understand those consequences, climate and agricultural data across the counties of America's "corn belt" (the states of Iowa, Illinois, and Indiana) are gathered and analyzed for insights into the effect of increasing temperature and rainfall. An overall finding is that both variables have a "hump shaped" relationship with crop yields; increasing summer temperature or precipitation from low levels improves yield. If temperatures are too high, or precipitation is excessive, it can be devastating for crop yields. Together, these trends suggest that unmitigated climate change may increasingly hurt agricultural productivity in the corn belt within the next 50-100 years.
 
 Introduction
 ------------
