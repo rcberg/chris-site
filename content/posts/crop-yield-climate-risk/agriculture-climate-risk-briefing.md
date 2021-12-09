@@ -36,11 +36,11 @@ Temperatures
 
 Over the course of the 21st century, corn yields across the belt have exhibited a strong negative relationship with the maximum temperature observed in the month of July. 
 
-{{< img src="/images/briefs/corn-temp-risk.png" width="60%" height="60%" alt="Effect of temperature on corn" align="center" >}}
+{{< img src="/images/briefs/corn-temp-risk.png" width="70%" height="70%" alt="Effect of temperature on corn" align="center" >}}
 
 High July temperatures are indicative of drought conditions, and on the extreme end of $T \geq 90^{\circ}f$ these climate conditions are extremely destructive to corn fields, reducing yields to 50 -- 100 bushels/acre. In fact, maximum July temperatures around $T \approx 95^{\circ}f$ have *never* been observed in tandem with corn yields of 150 bushels/acre or more. The average observed corn yield when maximum July temperatures stay below 90 degrees is almost 167 bu./ac., but turning to the other side of 90 degrees, average observed corn yields are only about 110 bu./acre, a reduction of about a third. Looking at those most-extreme max. July temperatures greater than or equal to 95, average observed yields plummet to 71 bushels/acre.
 
-{{< img src="/images/briefs/soybean-temp-risk.png" width="60%" height="60%" alt="Effect of temperature on soybeans" align="center" >}}
+{{< img src="/images/briefs/soybean-temp-risk.png" width="70%" height="70%" alt="Effect of temperature on soybeans" align="center" >}}
 
 Soybean yields similarly reduce with higher summer temperatures, but are much less-sensitive than corn. When looking at the hit that yields take during seasons of extreme temperatures, soybean yields in those extreme ($T \geq 95^{\circ}f$) seasons comes-in at 37 bushels/acre on average, compared to a "normal" ($T < 90^{\circ}f$) season of just under 50 bushels/acre.
 
@@ -49,11 +49,11 @@ Precipitation
 
 Surface temperatures are not the only climate variable for agricultural planners to keep their eyes on going forward. The NOAA has observed large changes in patterns of heavy rainfall between the early 1900s and today. The corn belt has seen the most extreme of these changes thus far, and it is projected to be at the center of more-extreme changes in the future.
 
-{{< img src="/images/briefs/corn-precip-risk.png" width="60%" height="60%" alt="Effect of precipitation on corn" align="center" >}}
+{{< img src="/images/briefs/corn-precip-risk.png" width="70%" height="70%" alt="Effect of precipitation on corn" align="center" >}}
 
 Corn yields exhibit a similar pattern with regards to to precipitation changes as they do to July temperatures. Like the high temperature in July, extremely high precipitation in the May-July months has roughly as much of a deleterious effect on yields as too-little precipitation. This fact has been observed in agronomic research[^2], as well. Forecasts of more extreme rains later in the 21st century could, then, represent a similar climate risk to land productivity as droughts.
 
-{{< img src="/images/briefs/soybean-precip-risk.png" width="60%" height="60%" alt="Effect of precipitation on soybeans" align="center" >}}
+{{< img src="/images/briefs/soybean-precip-risk.png" width="70%" height="70%" alt="Effect of precipitation on soybeans" align="center" >}}
 
 Like before, we see a similar pattern for soybean yields as we do for corn. Soybeans, though, show a much smaller range of response. Having higher levels of growing season precipitation might degrade soybean yields but the effect appears much less-severe than it is when we look at corn yields, so unlike corn yields it's difficult to draw a conclusion about whether high precipitation poses a similar risk to soybean acres as droughts. In other words having more-extreme precipitation in the future is not good news for soybean crops, but it may still be better news than a drought, which we can't say for corn.
 
@@ -68,7 +68,7 @@ It's possible that these adverse yields are either offset by forecasts of more-e
 
 A parting observation is that-- based on the IPCC forecasts as well as currently available data-- soybean acres may be substituted for corn in order to maintain a level of land productivity close to what we observe today.
 
-{{< img src="/images/briefs/corn-acreage-share.png" width="60%" height="60%" alt="Share of planted corn in corn belt" align="center" >}}
+{{< img src="/images/briefs/corn-acreage-share.png" width="70%" height="70%" alt="Share of planted corn in corn belt" align="center" >}}
 
 We normally see slightly over half of total acres planted with corn (mostly ranging between just over a third to almost three-quarters of planted acres), if the goal is to come close to maintaining current productivity levels, we may see a shift in the histogram above. Presumably, corn would be planted at a lower rate if soybeans truly can better-handle the climate changes better. However, it's impossible to speculate much about what we'll see until we have a sense of how prices will respond to these changes. Knowing that there may be threats to land productivity, we need to model how commodity markets will respond in order to assess the impact on market participants like farmers or land owners. 
 
