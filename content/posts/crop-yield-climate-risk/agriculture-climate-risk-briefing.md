@@ -18,7 +18,7 @@ toc: true
 Executive summary
 -----------------
 
-Long-term climate forecasts project rises in both temperature and precipitation levels over the coming 50-100 years. Because temperature and precipitation are both important factors determining agricultural yields, these projections have important consequences for future agricultural productivity. To help better-understand those consequences, climate and agricultural data across the counties of America's "corn belt" (the states of Iowa, Illinois, and Indiana) are gathered and analyzed for insights into the effect of increasing temperature and rainfall. An overall finding is that both variables have a "hump shaped" relationship with crop yields; increasing summer temperature or precipitation from low levels improves yield. If temperatures are too high, or precipitation is excessive, it can be devastating for crop yields. Together, these trends suggest that unmitigated climate change may increasingly hurt agricultural productivity in the corn belt within the next 50-100 years.
+Long-term climate forecasts project rises in both temperature and precipitation levels over the coming 50-100 years. Because temperature and precipitation are both important factors determining agricultural yields, these projections have important consequences for future agricultural productivity. To help better understand those consequences, climate and agricultural data across the counties of America's "corn belt" (the states of Iowa, Illinois, and Indiana) are gathered and analyzed for insights into the effect of increasing temperature and rainfall. An overall finding is that both variables have a "hump shaped" relationship with crop yields; increasing summer temperature or precipitation from low levels improves yield. If temperatures are too high, or precipitation is excessive, it can be devastating for crop yields. Together, these trends suggest that unmitigated climate change may increasingly hurt agricultural productivity in the corn belt within the next 50-100 years.
 
 Introduction
 ------------
@@ -47,15 +47,15 @@ Soybean yields similarly reduce with higher summer temperatures, but are much le
 Precipitation
 -------------
 
-Surface temperatures are not the only climate variable for agricultural planners to keep their eyes on going forward. The NOAA has observed large changes in patterns of heavy rainfall between the early 1900s and today. The corn belt has seen the most extreme of these changes thus far, and it is projected to be at the center of more-extreme changes in the future.
+Surface temperatures are not the only climate variable for agricultural planners to consider going forward. The NOAA has observed large changes in patterns of heavy rainfall between the early 1900s and today. The corn belt has seen the most extreme of these changes thus far, and it is projected to be at the center of more extreme changes in the future.
 
 {{< img src="/images/briefs/corn-precip-risk.png" width="70%" height="70%" alt="Effect of precipitation on corn" align="center" >}}
 
-Corn yields exhibit a similar pattern with regards to to precipitation changes as they do to July temperatures. Like the high temperature in July, extremely high precipitation in the May-July months has roughly as much of a deleterious effect on yields as too-little precipitation. This fact has been observed in agronomic research[^2], as well. Forecasts of more extreme rains later in the 21st century could, then, represent a similar climate risk to land productivity as droughts.
+Corn yields exhibit a similar pattern with regards to to precipitation changes as they do to July temperatures. Like the high temperature in July, extremely high precipitation in the May-July months has roughly as much of a deleterious effect on yields as too-little precipitation. This fact has been observed in agronomic research^[2] as well. Forecasts of more extreme rains later in the 21st century could therefore represent a similar climate risk to land productivity as droughts.
 
 {{< img src="/images/briefs/soybean-precip-risk.png" width="70%" height="70%" alt="Effect of precipitation on soybeans" align="center" >}}
 
-Like before, we see a similar pattern for soybean yields as we do for corn. Soybeans, though, show a much smaller range of response. Having higher levels of growing season precipitation might degrade soybean yields but the effect appears much less-severe than it is when we look at corn yields, so unlike corn yields it's difficult to draw a conclusion about whether high precipitation poses a similar risk to soybean acres as droughts. In other words having more-extreme precipitation in the future is not good news for soybean crops, but it may still be better news than a drought, which we can't say for corn.
+Yet again we see a similar pattern for soybean yields as we do for corn, although soybeans show a much smaller range of response. Having higher levels of growing season precipitation might degrade soybean yields, but the effect appears much less-severe than it is when we look at corn yields. Unlike corn yields, it's difficult to draw a conclusion about whether high precipitation poses a similar risk to soybean acres as droughts. In other words having more-extreme precipitation in the future is not good news for soybean crops, but it may still be better than a drought (which can't be said for corn).
 
 Productivity implications
 -------------------------
